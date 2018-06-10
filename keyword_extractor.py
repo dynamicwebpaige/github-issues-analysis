@@ -8,4 +8,8 @@ with open('keras_issues.csv', 'rt', encoding='utf-8', errors='replace') as f:
         row_text += row[22]
     
 Rake = RAKE.Rake(RAKE.SmartStopList())
-print(Rake.run(row_text))
+row_text_output = Rake.run(row_text)
+
+with open("output.csv",'w', encoding="utf-8", errors="ignore") as resultFile:
+    wr = csv.writer(resultFile, dialect='excel')
+    wr.writerows(row_text_output)
