@@ -1,0 +1,2918 @@
+save multi-gpu modelw-categorical-crossentropy-function-keras-tensorflowcifar10_resnet,45.97862215648645
+using-pre-trained-word-embeddings-in-a-keras-model,44.96356092228186
+failed>locallyconnected1d pegs cpu corein utils/data_utils,35.94285714285714
+in-plane locally-connected 2d convolutionscan,31.892857142857142
+avoid recompile dynamic k-max pooling,29.933333333333337
+improving[dev] fixing stalling ci build,29.73076923076923
+gan-style networks[api design review] timeseriessequence,29.170833333333334
+blas sgemm errorapply encoder/base model,28.440697674418605
+stateful=true/false units=1 samples=1 batch_size=1 epochs=1attributeerror,28.322222222222223
+[wip] correct data-parallel sgd implementation,27.24703557312253
+drastically increases data size`unknown entry,26.988746803069056
+relu6simple weighted embedding networkfine-tuning inceptionv3,26.803571428571427
+memory activation=softmax loss=categorical_cross_entropycombined weight tensors,26.09813432181853
+rnn/lstmkeras lstm neural netwotk translation,25.48717948717949
+operation[user problem] convert v-net,25.261904761904763
+wrapped function expects non-float argumentloading,24.964285714285715
+content-type application/json`fit_generator` forgets,24.241935483870968
+linear chain conditional random fieldcan,23.6
+/erogol/quoradqbaseline/blob/master/siamese,23.2
+7/dist-packages/scipy/_lib/_ccallback_c,23.0
+tesla v100-sxm2-16gb gpu,22.724137931034484
+weighted-per-batch mse loss function,22.276406926406928
+default axes=nonetensor internally upcast,21.833333333333336
+classifier[api design review] sample weight,21.811858974358977
+python methodimagegenerator distorting imagekeras  freezing,21.444444444444443
+cudnn_status_mapping_errorproblem understanding implemented rnn architecturehow,21.333333333333336
+switch backend bt editing $home/,21.07843137254902
+declarationdensenet batch norm epsilon valuesmodelcheckpoint,20.766666666666666
+unrounded activation valuesgeneralized dice loss,20.65948963317384
+lr=0merge versus concatenate issues,20.5
+parallel pytest-xdistcreate 3d output,20.483018867924528
+makes pydoc sadweighted custom loss,20.30035650623886
+cnnconv2dtranspose ambigous output shapekeras seq2seq,20.28301886792453
+solvebatchnormalization make bad resultsdetailed explanation,20.2
+native tensorflowkeras backendextracting cell state,20.0
+validationtensor conversion requested dtype int32,19.916666666666668
+image channelsattention trick implementationno model,19.89903100775194
+summary opsvariable length digit recognition,19.625
+kerasimagedatagenerator samplewise_center standardize method subtracting,19.619047619047617
+siamese examplesupport distributed tensorflowswitching gpus,19.366666666666667
+support native data tensorsaccessing tensorcores,19.36521739130435
+grutensorboard visualization support validation generatori,19.265217391304347
+ml algorithmskeras outputting wrong number,19.16883116883117
+multi-class segmentationcan tt-rnn,19.15811965811966
+multidimentional time-series regressiontimedistributed layer,18.983168488634394
+full batch2d lstm implementationsaving weights,18.974358974358978
+model returns dictsetup random seed,18.790697674418603
+load pre-trained weights[logic error],18.74200867931518
+custom metric/callback issues [feature request,18.738235294117647
+optimizer hyper-parameter assignment userwarning,18.666666666666664
+vgg16variational autoencoder custom loss functionfinetuning,18.50035650623886
+transposed convolutionsuse intermediate layer values,18.496983105390186
+multi-label classifierre-init weights,18.483682983682982
+learning rate multipliersprevent loading hd5stores,18.440909090909088
+build stacked sequence-to-sequence autoencoder,18.325696767001116
+general dimension handling loss function,18.221861471861473
+kerassmorms3 keras implementationtying encoder weights,18.137179487179488
+resnet variantsnegative dimension size caused,18.11898395721925
+pre-loaded vgg net model shape,18.03599681971775
+model definitionpremature gpu memory allocation,17.962454653072136
+mnist-acgan examplerecurrent lambda layer,17.924905183312262
+py exampleusing `oov_token` breaks tokenizer,17.82962962962963
+custom keras layersfine tuning problem,17.666806722689074
+placeholder tensorlearning/decay rate multiplierspatialdropout,17.59090909090909
+2d image semantic segmentation problem,17.44642857142857
+glove[feature] local_conv3dlstm timeseries prediction,17.435087719298245
+arbitrary input size issuesfeature request,17.25686274509804
+multiple parameter custom activation functionconv3d,17.24927892884549
+handle resource exhaust error coming,17.191176470588236
+reference vae modelstateful lstm training,17.079284750337383
+distributionsnon training batch norm operator,17.02543859649123
+unknown input sizevariable output steps,16.983018867924528
+tensor conversion requested dtype int32,16.958333333333336
+graph disconnected errorload huge data,16.815217391304348
+proportionallybinary cross entropy loss function,16.80974025974026
+input indexprediction score extremely low,16.808333333333334
+variable lengthno attribute ifelseinconsistent results,16.794805194805196
+specific indices gradient computation doesn,16.791666666666668
+tensorboard finds nested embedding layershow,16.475
+bi-lstm default input share,16.42051282051282
+neural network trained model weightssample_weight,16.40474449716108
+lstm transfer learning errorcategorical labels,16.153846153846153
+found ndim=4lstm layer fails,16.065164923572002
+axesloading json model architecture errors,16.047840531561462
+imagepreprocessing ignores capitalised extensionscall_back_error,16.0
+view incorrectly recognized textwhy,16.0
+single outputvery low test accuracy,15.94375
+switch format multiple input channels,15.785897435897434
+cell wrapper base class [work,15.758888888888889
+system identification taskloss display,15.666666666666666
+dose anynone reproduce shufflenet,15.666666666666666
+embedding layer input dimension probleminitialization,15.631074014481094
+load vgg16 weightswrong loss function,15.592196400091137
+keras resnet50 implementation pooling options,15.515151515151514
+makedirs failure catching neededpypi,15.5
+io/backend/ describes tensorflow backend,15.484243697478993
+keras embedding layer online trainingsupport,15.38561946902655
+multithreaded processthe default top_k_categorical_accuracy,15.333333333333334
+fused batch norm apivalueeroor,15.266666666666666
+locally connected layersdocumentation typo,15.25
+test directorypandas hdfstore conflicts,15.25
+found imagescannot create dense layer,15.231627872387893
+register custom theano gpu op,15.205230368009271
+validation datamulitivariate input/output regression,15.198236259228876
+recurrent_dropout nad implementation=2fit_generator,15.181818181818182
+create custom lstm layergpu slower,15.103986209868564
+device propertiesprint progress bars,15.0
+checkpoint callbackvariable length repeatvectorinvalidargumenterror,15.0
+callback[suggestion] document preprocessing function,14.939285714285713
+building powerful image classification models,14.92738095238095
+lstmimage data generator memory error,14.887346242844965
+fix no-reproducibility issues,14.833333333333334
+account french peculiaritiesoutput loss,14.712121212121211
+lstm[feature] keras source codes,14.703846153846154
+fractional max poolingcannot predict,14.7
+/usr/local/lib/python2,14.666666666666666
+replicated karpathy char learning,14.666666666666666
+restoring themdocument layer numbers,14.610619469026549
+contributorsgpu out-of-memory,14.547619047619047
+fixed seedkeras support elasticsearch,14.533333333333335
+loading dataattention layerproblematic conversion,14.516666666666666
+trimming sentences dot product,14.5
+set/change layer/model nameimporterror,14.438817143445153
+tensorflow backend combining stateful rnn,14.372478991596637
+saved oneremoving boolean checks,14.363636363636363
+default oneprogress bar logging,14.333333333333334
+unused inputs removes themhow,14.3125
+mixed activity-weight regularizersruerror,14.307692307692307
+keras model[bug report] imagenet_utils,14.293078626799558
+testing api conversion decorators,14.270833333333332
+spatial pyramid pooling layerhow,14.266666666666666
+imdb_cnn sampleextracting bottleneck features,14.222222222222223
+original random statea bug,14.219047619047618
+conv2d numpy dtype conversion error,14.207843137254901
+keras lstm shape mismatchpossible bug,14.17930402930403
+char-level text generation,14.166666666666666
+current batchflow_from_directory yields batch,14.1
+layer/tensoradding known_grads parameter,14.055063913470994
+fully connected input featureswhy,14.016666666666666
+transfer learning technique explained,14.0
+min_lr * 1e-4after flatten,14.0
+32bit float againbackwad rnn,14.0
+run mnist_mlp exampletensorflow failsequence,14.0
+integrate crf-as-rnn,14.0
+aid fine tuning metrics,13.966666666666667
+non-redundant/infinite set,13.9375
+layer model_1 expects 10 inputs,13.923119469026549
+modeladd loss= kwarg support,13.91212121212121
+on_epoch_endkeras exported model shows,13.85736434108527
+lambda layer breaks serializationdropout,13.824905183312262
+neural networksupport file objects,13.81578947368421
+circular/toeplitzreducing memory usage,13.797619047619047
+summary jupyter notebook display,13.791666666666666
+import keras errornumpy input shape,13.763986013986013
+cnn text classification validation result,13.740974967061923
+_make_train_function->train_function->functionctc implementation,13.681818181818182
+kwargs options specificallyweird behavior,13.65
+support deep complex netowrk,13.533333333333333
+stdoutvariantional network shape incompatible error,13.524881412988831
+functional apiconvolutional multiple filters,13.51923076923077
+variable input sizeproblem encountered,13.50909090909091
+kernel diesimage sequence classification,13.505797101449275
+flow_from_csv functionconcatenating embedding layer,13.485619469026549
+3d augmentation -kerasfit_generator fills,13.45
+multioutput/input modelfeature request,13.433333333333334
+physical/virtual batch size,13.423529411764706
+activity regularisation bugconcatenate tensor,13.375
+cudnn_status_not_supporteddim=4nn model implementation,13.372515856236786
+load training config wrong computation,13.36244019138756
+numpydoes keras support quantization,13.350000000000001
+modeldose keras support map,13.350000000000001
+frozen layer modelload_model fails,13.324905183312264
+tensorflow backendkeras cpu usagehow,13.303571428571429
+[bug/fr] simple wrappers,13.285714285714285
+multi-label classification task,13.263170163170162
+fcn modelcannot restore model,13.190697674418605
+base keras willsequential output,13.18301886792453
+image datageneratorcustom objective function,13.172619047619047
+/tensorflow/core/util/cuda_launch_config,13.160714285714285
+construct simple lstm layerissue,13.153846153846153
+py] unwanted characters predicted,13.12962962962963
+conv2dtransposelstm simultaneous sequence prediction,13.107551487414188
+releasedhuge text files samples,13.1
+vectorized manner keras activation,13.097368421052632
+merge batch renormalization implementationmodel,13.061538461538461
+shared weightsipython kernel dies,13.035714285714285
+tf devicememory consumption exceeds,13.0
+/ comprehensive model state savingbug,12.990697674418605
+predicted values outnumbertest size,12.959893048128343
+derivativewhich classification loss function,12.943073593073592
+efficiency increasedunknown metric error,12.941176470588236
+rnn base class doesn,12.930555555555555
+maintain data ordererror loading,12.915217391304347
+word+character hybrid network,12.896739130434783
+triplet siamese modelno model,12.890697674418604
+meta  call model errorloss,12.85736434108527
+clippingtimeseriesgeneratorone function parameter missing,12.837301587301587
+long time seriescreate layer,12.816501821967726
+dead locktensorflow backend takes,12.745098039215687
+multigpu modekeras dot fails,12.714285714285715
+affect pretrained weightsgive keras,12.705555555555556
+time-distributed lstm + lstmunable,12.693061840120663
+fully supportedpreprocessing imageswhy fit,12.686666666666666
+attention mechanism implementation issuehow,12.681818181818182
+evaulate failuresrnn lstm model,12.677877161598092
+performance gpujupyter kernel dies,12.607142857142858
+learning rate scale factor,12.59090909090909
+saved model behaves differently,12.554334038054968
+solve fixed time mutation,12.53921568627451
+file handleslarge model zoo,12.506487148102815
+respect default float precision,12.5
+conv2d layerpredict_generator increments batch_index,12.5
+found ndim=2cnn regression,12.49025974025974
+flexible modelsjointly train autoencoder,12.461904761904762
+classkeras tf backend hangs,12.411764705882353
+tensorflow backendincorrect accuracy measure,12.379464285714285
+custom metrics functionbatch size,12.37843137254902
+dense prediction api design,12.374548503611969
+keras layerstraining accuracy stuck,12.36875
+customize keras tokenizer language,12.350000000000001
+convlstm2d layerimagedatagenerator file formatspadding,12.31578947368421
+inconsistent labelscannot fine-tune,12.3
+theano backendwhy keras apps,12.292857142857143
+multi gpu machinecomposite models,12.279082985979539
+keras training usnig lstmevaluation,12.242105263157894
+trained h5 neural network,12.214046822742477
+outputbig input creates noise,12.2
+dense layercudnn test fails,12.199579831932773
+predict_generatortensorflow backend 3-4 times slower,12.173669467787116
+1[api design review],12.170833333333334
+[api design review],12.170833333333334
+embedding matrix inputwrong output,12.158018867924529
+performancecannot initiate sequential model,12.119269102990033
+reproduce imagenet trainingsyntax error,12.107843137254902
+slurmextracting hidden layer values,12.104125962533043
+conv1d layersfeed cnn features,12.097979797979798
+stateful sub-model results,12.090697674418605
+keras pre-trained model,12.088560922281854
+pre trained keras model,12.088560922281852
+bottleneck features model based,12.079586563307492
+real time object detectionvalueerror,12.06951871657754
+image-to-sequence prediction,12.065884820747522
+multi_gpu_model renames model outputscudnnlstm,12.065697674418605
+cpu/gpu tensorflow moduleshow,12.027709359605911
+fit_generator segmentation faulta bug,12.027649769585253
+implemented wrongwhy reset model,12.024031007751939
+generate sampleadd trainable weights,11.987179487179487
+match arraycustom embedding layer,11.985619469026549
+input`samples`-based training,11.958771929824561
+keras classifier wrappercannot merge,11.944871794871796
+�sequence-to-sequence� model,11.918958543983823
+fit_generator log shows 1 sample,11.908602150537634
+mixed length lstm error,11.845022624434389
+0which loss function works,11.843073593073592
+adding too-high indices,11.833333333333332
+deep learning lstm rnn,11.820512820512821
+asymmetric sample weights[]writing,11.820512820512821
+incorrect sizerandomly resize images,11.785714285714285
+add pixel-wise padding,11.766666666666667
+cnn-rnn-ctc networkhow,11.742424242424242
+update softmax weights matrix,11.737179487179487
+post user defined tf,11.714285714285714
+categorical hinge loss,11.712121212121211
+losing output shape information,11.706095791001452
+training processlambda layer giving,11.702724732184443
+l2 normalization randomly change,11.7
+error training parallel cnn,11.69237264283704
+returning wrong accuracy valuesfailing,11.673295454545455
+validation accuracyinvalidargumenterror set constraints,11.669384057971014
+conv2d weight matrix size,11.631221719457013
+define x_train/y_traintensorflow-aarch64,11.625
+test mode ]  print zip,11.607142857142858
+tensorboard conv2d histogram issueyou,11.6
+fit_generator provide  difference resulthow,11.599078341013826
+fine-tune inceptionv3/resnet50,11.561904761904762
+documentationpass multiple-input model,11.559928443649374
+tf data tensorsloss function,11.529503105590063
+improve `modelcheckpoint` verbose modecan,11.5
+validation data causing val_loss,11.46376811594203
+larger modeluse python logging,11.444444444444445
+module named h5pytensorboard callback,11.433333333333334
+training multi-label classifier,11.421942092994724
+images classificationunableto resume training,11.377819548872179
+timedistributed layerthe tensorflow warnings,11.360714285714286
+customized image preprocess function,11.339285714285715
+initialising keras lstm layer,11.247798956206037
+embedding layernew keras model,11.215697674418605
+generator memory leak bugs,11.130952380952381
+update loss function parameter,11.120851370851371
+freezing tensorflow graph/modelhow,11.110714285714284
+two-output lambda layer,11.107924051236793
+titan xpdifferent metrics/losses,11.066666666666668
+keras model loss stuck,11.052818886539818
+keras / cudnn autotunerdo keras,11.05
+conv2dkeras cnn slower predicting,11.004329004329003
+kerasissue loading keras lstm,10.987179487179487
+support dropout incorrect docs,10.985714285714286
+enumerate keras tensor index,10.941666666666666
+training accuracy curvefeature suggestion,10.910855263157893
+predictionexporting/importing keras model,10.840697674418605
+architecture  merge layer architecture,10.786443644850726
+[bug] multi_gpu_model models fail,10.779761904761905
+keras modelfreeze dropout mask,10.76904761904762
+saving itsingle timestep prediction,10.757309941520468
+unexpected weighted accuracyfloat16,10.75
+varying input-data shapes,10.665217391304347
+reshape layer problemmasking doesn,10.652286135693215
+custom loss function element,10.564642220524576
+checking target/ dimensions problemgot,10.554112554112555
+makes cntk model unable,10.524031007751939
+predict processcannot call keras,10.516666666666667
+character-level embeddings,10.5
+wrapped rnn layerscalculate,10.5
+write keras custom metric,10.488235294117647
+attributeerrorkeras/keras/layers/merge,10.481103678929767
+[feature request] add metrics,10.466666666666667
+import layer_from_configsplit train data,10.4180312441182
+cnn +glove embeddings,10.40909090909091
+layers modificationdifferent input shape,10.392642140468228
+pre-trained vgg16,10.347863247863248
+multi output loss tf,10.26437084927651
+emptyimprove softmax implementationstructure,10.25
+modify non- trainable weights,10.237179487179487
+add missing named arguments,10.236904761904762
+pre-trained weights,10.235042735042736
+pass multiple data generators,10.16778149386845
+two-stream net,10.166666666666666
+saving/loading weights errors,10.137179487179488
+divergence layer issues,10.110619469026549
+datasetmodify gradient descent,10.0
+fine tuning callback,10.0
+improper initializationgraph disconnected,10.0
+error �optimizer weight shape,9.977501256913023
+function  troubleface recognition,9.964285714285715
+tensorflow object detection api,9.961850649350648
+pre-trained model,9.938560922281852
+recurrent activation arguments passed,9.922368421052632
+5d input array shape,9.856410256410255
+lambda layer calling tf,9.824905183312262
+dropoutauto encoder classification,9.766666666666666
+full sequence returned,9.73913043478261
+memory leakage based,9.714285714285714
+application modelslstm masking,9.7
+triplet siamese networkequivalent,9.7
+fully convolutional net,9.69047619047619
+char embeddingsimple doubt,9.666666666666666
+timedistributed layerkeras imagedatagenerator doesn,9.658333333333333
+lstmkeras documentation misses,9.6
+custom objective functionmodel,9.588235294117647
+working theano function memory,9.583333333333332
+connected models separatly,9.535714285714285
+unknown activation function,9.511654135338347
+checkpoint filepython autogen,9.5
+neural networks curationerror,9.5
+predicted caption outputwhy,9.5
+bag-of-ngrams,9.5
+set keras layer output,9.481138336951078
+input layer & softmax,9.460619469026549
+0th hidden cell,9.457142857142857
+reportedkeras api extensions,9.4375
+vgg-16 architecturethe problem,9.428571428571429
+word length dimension,9.420454545454545
+tensorflow backendmany-to-,9.410714285714285
+timedistributeddenseincorporating word vectors,9.375
+time series forecasting,9.372549019607844
+scalar indexerror coming,9.333333333333334
+multi-label classifier,9.32983682983683
+[feature-request] passing epoch,9.316666666666666
+stateful metricsloading frames,9.3
+fold layerpredict_generator errors,9.3
+multi gpusvalidation stconversion,9.26923076923077
+kerasuse multi-cores,9.26923076923077
+multi label classification,9.263170163170162
+shows distributed training,9.258771929824562
+simple synthetic data,9.231884057971014
+lambda layerkeras inplementation,9.214285714285715
+calculating log loss,9.212121212121211
+chaining layersusing tokenizer,9.2
+trained hydrangea cnnhow,9.192307692307693
+tensorflow source codes,9.160714285714285
+shared siamese-style,9.152380952380952
+default float type,9.133333333333333
+cross entropy functionsvalueerror,9.133333333333333
+learning rate parameteris,9.09090909090909
+pixelwise classificationlearning rate,9.09090909090909
+memory lossq-learning,9.047619047619047
+resize_imagesreduce memory burden,9.047619047619047
+custom activation functionfeeding,9.035603715170279
+fully convolutional networks,9.023809523809524
+fully convolutional networksprecision,9.023809523809524
+validation datasetsnew api,9.002717391304348
+web serverunknown elements,9.0
+clarify broadcasting semantics,9.0
+non-serializable keywords,9.0
+horizontal slide barsmodels,9.0
+learning ratesfancy indexing,9.0
+modeltokenizer word_index 0 reserved,9.0
+composing 2 modelstensorshape supportconv2dcustombackpropinput,9.0
+grid search/cross_val_score,9.0
+strange predicted result,9.0
+one-hot encoding,9.0
+multi_gpu_modelmulti-dimensional metricmodel,9.0
+get_updates methodrough estimate,9.0
+hdfbroken backwards compatibility,9.0
+sync naming convention,9.0
+workmaximum recursion exceed,9.0
+google cloud storage,9.0
+integrating recurrentshop functionalities,9.0
+documentationkeras progbar logger,9.0
+illegalimplementing seq2seq modelsrequest,9.0
+multi-gpu solution,8.993368700265252
+train multiple keras models,8.966849816849816
+objectives function roc_auc_score,8.964285714285715
+activationsloss function nanbatch_size,8.964285714285715
+usedhyper-parameter optimization,8.944444444444445
+you1recurrent attention api,8.9375
+sequential model returns list,8.937450921171852
+batch wise averages,8.933333333333334
+3d cnnvalidation loss,8.912121212121212
+activation function relu,8.911654135338345
+convolutioncustom activation function,8.911654135338345
+image classification problem,8.903571428571428
+feature wise normalization,8.9
+[feature request] hooks,8.9
+dropout documentation correct,8.885714285714286
+convolutional neural network,8.87888198757764
+low frequency tokens,8.875
+binary classification problem,8.861904761904762
+initial learning rate,8.84090909090909
+zero-dimensional tensors,8.833333333333334
+unusual data format,8.815217391304348
+custom loss functionhow,8.80035650623886
+autoregressive modelstest_muliprocessing failed,8.8
+1080ti memory usage,8.797619047619047
+native tfruntime error,8.791176470588235
+stateful lstm questions,8.787179487179486
+set arbitrary padding,8.770833333333334
+multiple instance learning,8.76923076923077
+bad marshal data,8.765217391304347
+custom loss function,8.764642220524575
+native tensorflow implementationvariable,8.760714285714286
+timedistribution layercnn regression,8.75
+dtype float32the speed,8.75
+found ndim=4shuffle,8.74025974025974
+found ndim=4issue,8.74025974025974
+video frame sequence,8.73913043478261
+obtaining cell states,8.725
+multitask modelsnan loss,8.712121212121211
+display tensor valueshow,8.708333333333332
+improve custom layer,8.698854763144196
+varying lengthmulti_gpu_model error,8.691176470588236
+gpucustomized loss function,8.676406926406926
+squared loss function,8.676406926406926
+contrastive loss function,8.676406926406926
+ctypedescr objectsdifferent behaviour,8.666666666666666
+large testing mse,8.666666666666666
+powerful gpu code,8.652709359605911
+gpu memoryresource problem,8.652709359605911
+pressing keras bugs,8.65
+keras/keras/layers/merge,8.631103678929765
+lstm 2d convis,8.63003663003663
+embedding layersparse_categorical_crossentropy requires,8.625
+recurrent neural network,8.621739130434783
+metrics 2 stacked lstm,8.62051282051282
+entire layer itselfissue,8.610619469026549
+strange behaviorbatchnormalization layer,8.610619469026549
+forget gate layer,8.610619469026549
+filechange layer configuration,8.610619469026549
+wrapper layer verificationdimensionality,8.610619469026549
+<ipython-input-1-30b843da4e08>,8.6
+pyrecurrent batch normalizationis,8.6
+fashion-mnist datasetwhat,8.6
+plot_modelbatchnormalization calculates batch,8.6
+recurrent cells lead,8.6
+recurrent networkkeras rnn,8.6
+broadcast input arrayunable,8.6
+training auto encoder,8.592105263157894
+rounded activation values,8.583732057416269
+yields multiple inputs,8.58173076923077
+lstmsmissing global variable,8.575757575757574
+timeseries data generationwhen,8.565217391304348
+input variablescontrastive function,8.564285714285713
+rnn api issue,8.5625
+custom metrics functionfeaturerequest,8.554901960784314
+sparse matrixmnist siamese,8.533333333333335
+`trainable=false`error,8.524509803921568
+image data format,8.523550724637682
+multiple nonlinear regression,8.51923076923077
+output label information,8.510291595197256
+multigpu compile failure,8.5
+optimizing multi_gpu_modelbatchnormalization moving_mean,8.5
+addweight matrix isn,8.5
+install pydotbilinear upsampling,8.5
+scikit-learn wrappersunable,8.5
+normal density predictionreadme,8.5
+elementfile path check,8.5
+importing kerashdf5 normalizer,8.5
+extremely high lossesis,8.5
+potential numerical instability,8.5
+synthetic lstm datasetlearning,8.487179487179487
+directional recurring lstm,8.487179487179487
+featurewise_center=truecnn lstm,8.487179487179487
+reproduce accuracy results,8.485416666666666
+multiple time seriesdifference,8.475113122171946
+lower test accuracy,8.46875
+recurrent convolutional networks,8.457142857142857
+generate reproducible results,8.433333333333334
+sequence length error,8.430306905370845
+long code snippets,8.428571428571429
+problem installing dependencieskeras_activate,8.428571428571429
+callbacklist classmxnet backend,8.411764705882353
+support noise layer,8.41061946902655
+conv1d layer config,8.410619469026548
+variable sized inputvalidation,8.40909090909091
+initial hidden state,8.407142857142858
+load custom initializer,8.404024767801857
+keras intermediate variablesmodel,8.4
+trained fcn model,8.383005366726298
+transfer trained model,8.383005366726298
+replace cudnn layer,8.360619469026549
+applicationskeras training dies,8.342105263157894
+documentationfeature/improvement request,8.333333333333334
+variable-size input,8.332620320855614
+lambda layer issuequestion,8.324905183312262
+multiple inputadam optimizer,8.324786324786324
+tensorboardlnasnet valueerrorpreprocess images,8.285714285714285
+noisy validation loss,8.277338603425559
+created inside layer,8.277286135693215
+multi-processing safe,8.26923076923077
+output specific values,8.252715837621498
+costructor parametersget negative,8.25
+collecting intermediate outputhow,8.25
+time series preprocessing,8.247549019607844
+[api bug] model,8.247245293466223
+pretrained model vgg-16,8.24625322997416
+-lstm evalutaion requires,8.237179487179487
+non-negative weights,8.237179487179487
+dtype boolcnn-lstm,8.237179487179487
+bad prediction behaviour,8.235087719298246
+yseeded data generators,8.231884057971014
+batch normalizationa bug,8.219047619047618
+0different accuracy score,8.21875
+accuracy plots shifted,8.21875
+tensorflowdefine center loss,8.212121212121211
+input layer & sigmoid,8.210619469026549
+dimensionskeras embedding constraint,8.208333333333334
+nvidia titan vafter,8.2
+timedistributed layercoding salt,8.2
+tab error resulting,8.191176470588236
+installation error failedpreconditionerror,8.191176470588236
+quantized 8-bit model,8.190697674418605
+return_sequences=truesaving model,8.190697674418605
+action plansuggest model,8.190697674418605
+multi gpu model,8.184066374683857
+multiple outputsstrange behavior,8.169230769230769
+random output option,8.168733153638815
+reverse propagation process,8.166666666666666
+binary classificationkeras docker,8.166666666666666
+image classification model,8.165697674418604
+functional apitensorflow backend,8.161764705882353
+tensorflow backendforce batchnorm,8.160714285714285
+lstm0x0000000014e10d90keras+tensorflow benchmark,8.160714285714285
+equivalent tensorflow codeclassification,8.160714285714285
+previous hidden state,8.157142857142858
+keras configuration fileuserwarning,8.15
+lock objectsimport keras,8.15
+theano backendbest practices,8.142857142857142
+kerasdoing multiple prediction,8.137651821862349
+validation data disagree,8.130434782608695
+neural network training,8.113844393592679
+bidirectional wrapper layer,8.110619469026549
+tensorboard callback runs,8.1
+add oss apiresults,8.1
+keras activation functoin,8.097368421052632
+sequentialextremely low accuracy,8.09375
+training datamodel composition,8.092105263157894
+main modeldifferent training,8.092105263157894
+training lossseq2seq learning,8.092105263157894
+lstm/rnn input,8.087179487179487
+`save_model` requires h5py,8.083333333333334
+negative samplingfeature request,8.083333333333334
+batch� callback function,8.064285714285713
+provided output parameter,8.060796645702307
+existing model trained,8.049672033392962
+smaller image sizes,8.041666666666668
+network modelfreezing weights,8.00891861761427
+modelsregarding text autoencoders,8.0
+fitting times vary,8.0
+pretrained_word_embeddings exampleadversarial learning,8.0
+cntk backendbackend cntk,8.0
+separate grucomputing perplexity,8.0
+gpuwrite modelcheckpoint callback,8.0
+[feature request] add,8.0
+pykeras nvcc fatal,8.0
+time parallelize option,7.991596638655462
+add features elementwise,7.988888888888889
+documentationdo conv1d works,7.966666666666667
+inference mode__call__ function,7.964285714285714
+multi images cnn,7.964035964035964
+cnn images classification,7.961471861471861
+expecteduse python logging,7.944444444444445
+kerasno reproducible results,7.933333333333334
+received 1 input tensors,7.933333333333334
+mixed precision training,7.925438596491228
+custom save function,7.923488750338845
+bad predictionlimiting number,7.914285714285715
+loss change depending,7.912121212121212
+abstract backend apihow,7.911764705882353
+un-trainable variable,7.909090909090909
+layer typemulti_gpu_model doesn,7.902286135693215
+dimense cnn lstm,7.896270396270396
+pretrained embeddingscylindrical padding,7.888888888888889
+define kullback-leilbler,7.875
+model/weights trained,7.870184853905784
+h5 filefreezing layers,7.869565217391305
+tokenized sequencentropyshared layers,7.869565217391305
+loss functionfrom keras,7.862121212121211
+] supporting augmentation layer,7.860619469026549
+convert cifar10_cnn model,7.857364341085271
+bson file directly,7.815789473684211
+model computation summary,7.815697674418605
+bidirectional wrapper doesn,7.791666666666666
+pytensorboard callback doesn,7.791666666666666
+seq2seq model results,7.790697674418604
+multiple image inputs,7.790064102564102
+inside bidirectional layer,7.777286135693215
+training process silently,7.758771929824562
+lambda layer missing,7.753476611883691
+flattening layerchanging class_weight,7.75
+include regression modelsvalueerror,7.75
+multi-output model,7.742947311573902
+multiple line image,7.727564102564102
+siamese network https,7.721739130434782
+line feats = merge,7.711538461538462
+cntkmerge layer documentation,7.710619469026549
+lstm-outputgood accuracy,7.705929487179487
+called multiple times,7.702564102564104
+invalid argumenterror  error,7.6911764705882355
+imdb fasttext implementation,7.681818181818182
+multiple inputs results,7.68173076923077
+pretrained modelcell states,7.680555555555555
+mobilenetreplacing tensor values,7.678030303030303
+rnn/lstm model,7.677877161598092
+lstmwhen global session,7.666666666666666
+loading tiff file,7.66578947368421
+implement andrew ng,7.636363636363637
+integer positional arguments,7.625
+py multi-gpu,7.622998329894882
+gaussian dropout layercan,7.619047619047619
+input variableembedding interface,7.6
+add additional commands,7.6
+timestepimagenet preprocess code,7.595238095238095
+sequence lstm prediction,7.594730974593675
+integer scalar arrays,7.583333333333334
+padded target sequence,7.572463768115943
+validation generatorslstm access,7.565217391304348
+provided weight shape,7.564102564102564
+conv3d layers trained,7.561872909698997
+previously saved model,7.554334038054968
+setting initial state,7.55
+keras losses discussionerror,7.55
+masking fails[bug],7.533333333333333
+keras trained model,7.533005366726297
+intented error message,7.524509803921569
+classes detected� class,7.513888888888889
+model file reduced,7.506487148102815
+cntk backendsudden drop,7.5
+cntk backendmodifying output_shape,7.5
+collected trainable weights,7.487179487179487
+build dockerfiletricky question,7.480769230769231
+lstmtimedistributed batchnormalization layer,7.467762326169407
+tf optimizerweighted metrics,7.466666666666667
+`workers > 0`time metric,7.455882352941177
+tutorial seq2seq`nb_epoch`,7.45
+batch_normalization layersa typeerror,7.444444444444445
+py throws outofrangeerror,7.42962962962963
+multi-gpu working,7.421940128836681
+epoch startingdead lock,7.416666666666667
+modify keras builtin �,7.4
+conv layer output,7.393638336951078
+kerasusing binary_crossentropy loss,7.378787878787879
+setting dropout rate,7.376623376623376
+negative dimensionspossible issue,7.375
+exporting tensor names,7.375
+keras loss functioncan,7.362121212121211
+combine lstm layers,7.356744704570792
+convolutional gru layer,7.356651215058294
+estimatorexporting keras model,7.340697674418605
+profileconvert keras model,7.340697674418605
+compiled keras model,7.340697674418605
+keras/model didn,7.340697674418605
+resourceexhaustederrorcan keras model,7.340697674418605
+multiple sequencesadapting dataset,7.34065934065934
+8 gpus trains slow,7.333333333333333
+concatenation layertimedistributed broken,7.333333333333333
+existing hdf5 fileconv1d,7.333333333333333
+tensorboard callbacks function,7.314285714285714
+training accuracy reported,7.310855263157895
+keras + tensorflow datasets,7.310714285714285
+unexpected keyword argument,7.292857142857143
+model saving results,7.290697674418604
+model training starts980ti,7.282802937576499
+reproducible minimal code,7.261904761904763
+python shellmultiple inputs,7.256944444444445
+save trained model,7.253973108661781
+download keras documentation,7.25
+keras modelbroken training,7.242105263157895
+keras training stops,7.242105263157894
+multiple input layers,7.238795986622074
+batch keras lstm,7.237179487179487
+output layer names,7.22697167028441
+constant inputs exception,7.2125
+constant training loss,7.204226475279106
+batch_size > 1attributeerror,7.2
+add lstm layer,7.197798956206036
+tf integrationkeras model,7.190697674418605
+recurrent layers fails,7.183850931677019
+gru layergpuarrayexceptionmulti_gpu_model doesn,7.180555555555555
+set attributekeras fit_generator,7.179435483870968
+conv1d_63/convolution/conv2d,7.166666666666667
+find suitable distribution,7.166666666666667
+checking model input,7.154334038054968
+keras/tf versions,7.15
+batchnormalization alternative method,7.142857142857143
+work correctsemantic bug,7.139047619047618
+dense layer doesn,7.137580253340273
+upsampling layer work,7.1306194690265485
+flatten show layer,7.110619469026549
+keras conv1d keras,7.1
+conversion problem,7.095238095238095
+training processsketchy description,7.092105263157895
+gru doesfit_generator error,7.080065359477125
+add weight regularization,7.074358974358975
+keras remembers shape,7.073076923076924
+timedistributed concatenation error,7.057843137254903
+gpu array exceptionloss,7.057471264367816
+convert timedistributed model,7.057364341085272
+run multiple models,7.054945054945055
+load imagenet weights,7.052968960863698
+train models made,7.0476190476190474
+timedistributed dense layer,7.045913586673608
+input shape dropped,7.023076923076923
+callbacks documentationa question,7.0
+build correctly data,6.9626532887402455
+produce reproducible results,6.933333333333334
+loading saved model,6.9043340380549685
+add masking noise,6.9
+removing inputsimporting keras,6.9
+checking model target,6.887667371388302
+visualize input images,6.885714285714285
+epochevaluate_generator save outputs,6.870967741935484
+shufflinggetting model activations,6.857364341085272
+flags flags = flags,6.857142857142857
+train keras features,6.800793650793651
+variable timestep sequences,6.797979797979798
+[doc] add model,6.790697674418604
+lstm[]import error,6.769265048676814
+multiple outputs passing,6.769230769230769
+kernel dies,6.75
+fit_generator raise stopiteration,6.741935483870968
+fit_generator throws error,6.733111954459203
+undefined output shape,6.706095791001452
+predict zerosresnet50 outputs,6.7
+[bug] save model,6.680713035401707
+run lstm model,6.677877161598092
+fit throws indexerror,6.653333333333334
+multiple middle layers,6.638795986622074
+nothingval_loss nan issue,6.625
+axis throws valueerror,6.607692307692307
+flow_from_directory / automatic resizing,6.6
+6 dim_nodes_by_depth attribute error,6.476890756302521
+image import imagedatagenerator,6.465909090909091
+running seq2seq model,6.440697674418605
+add verbose=3 option,6.385714285714285
+save/load model,6.377454890038299
+keras[documentation issue],6.375
+word + character,6.375
+stacked autoencoder,6.366666666666667
+input shape parameters,6.356410256410256
+improve classifier,6.333333333333334
+dynamic rnn,6.333333333333334
+trainable=false,6.333333333333333
+weight matrix,6.3076923076923075
+encoder state,6.3
+multiple channels,6.269230769230769
+[feature] support,6.2666666666666675
+rnn classification,6.266666666666667
+model save error,6.252841886942324
+word embedding,6.25
+list/tuple index,6.234848484848484
+hidden layers invalidargumenterror,6.226708074534161
+bottleneck features,6.222222222222222
+unknown layer,6.210619469026549
+output shape column,6.206095791001451
+time steps,6.205882352941177
+fit  [ lstm model],6.197877161598091
+valid keras tensor,6.191666666666666
+tf estimator error,6.1911764705882355
+functional api,6.1875
+dropped units,6.166666666666666
+conv2d net,6.166666666666666
+cross entropy,6.133333333333333
+learning rate,6.090909090909091
+neural network,6.021739130434783
+2d embedding,6.017857142857142
+1] requested permute,6.0
+multi gpu,5.993368700265252
+multi-gpu,5.993368700265252
+[multi gpu],5.993368700265252
+increasing/decreasing dropout,5.9523809523809526
+multi-gpus,5.935897435897436
+multi gpus,5.935897435897436
+binary classification,5.933333333333334
+io/backend/,5.911764705882353
+activation function,5.911654135338345
+single weight,5.907692307692308
+feature request,5.9
+[feature request],5.9
+�feature request,5.9
+cpu usage,5.892857142857142
+expected int32,5.888888888888889
+2d sequence,5.881987577639752
+multi-input,5.86923076923077
+dynamic axis,5.833333333333334
+test data,5.815217391304348
+fine-tune,5.8
+fine tune,5.8
+stateful lstm,5.787179487179487
+`stateful` lstm,5.787179487179487
+mask parameter,5.777777777777779
+features<class,5.777777777777778
+gpu memory,5.77175697865353
+custom constraints,5.754901960784314
+native keras,5.75
+online learning,5.75
+resource usage,5.75
+set weight,5.7451923076923075
+word prediction,5.743421052631579
+cell states,5.725
+siamese network,5.721739130434782
+user defined,5.714285714285714
+json serializable,5.7
+custom layer,5.698854763144196
+return model predictions,5.690697674418605
+api question,5.6875
+loss function,5.676406926406926
+logic xor,5.666666666666667
+memory[bug,5.666666666666666
+epochs chosen,5.666666666666666
+including segmentation,5.666666666666666
+zf net,5.666666666666666
+distributed keras,5.65
+wrong implementation,5.636363636363637
+2d weights,5.63003663003663
+weight file,5.623481781376518
+fcn bug,5.619047619047619
+found message,5.619047619047619
+crf layer,5.610619469026549
+3d cnn,5.609090909090909
+siamese cnn,5.609090909090909
+numpy matrix,5.6
+average pooling,5.6
+single float,5.6
+keras api,5.5875
+target format,5.583333333333334
+gpu-architecture,5.58128078817734
+local variable,5.575757575757576
+pretrained networks,5.555555555555555
+initial state,5.55
+memory leak,5.5476190476190474
+customize network,5.521739130434783
+optimizer function,5.51984126984127
+json file,5.515789473684211
+length 0when,5.5
+visualization purposes,5.5
+concatenateuse oov_token,5.5
+transfer learn,5.5
+combining tf,5.5
+rnn optimization,5.5
+[cntk] rnn,5.5
+layer class,5.499508357915437
+multiple gpu,5.493368700265252
+input class,5.488888888888889
+weights matrix,5.487179487179487
+# sample weights           [[1]],5.487179487179487
+sample weights,5.487179487179487
+support images,5.485714285714286
+embedding layer,5.485619469026549
+fully load,5.482456140350877
+models trained,5.478021978021978
+unknown dimensions,5.457142857142857
+ndim returns,5.454545454545455
+multiple gpus,5.435897435897436
+trained dense,5.427601809954751
+batch size,5.423529411764706
+custom constraint,5.421568627450981
+cnn learning,5.409090909090909
+cnn networks,5.409090909090909
+data tensors,5.398550724637682
+trained model,5.383005366726297
+model trained,5.383005366726297
+rate doesn,5.382575757575758
+lambda layerhow,5.380952380952381
+fit_generator error typeerror,5.377556398903648
+word embeddingskeras,5.375
+multiple-input,5.36923076923077
+cross-validation,5.3652173913043475
+numpy dtype,5.35
+online batch,5.35
+lstm architecture,5.344322344322345
+exploring gan,5.333333333333334
+specific layererror,5.333333333333334
+extremely slowregularization,5.333333333333334
+deep dream,5.333333333333334
+activity regularizer,5.333333333333334
+fixed batch_shape,5.333333333333334
+default session,5.333333333333334
+default target_size,5.333333333333334
+range indices,5.333333333333333
+lambda layer,5.3249051833122625
+single gpu,5.324137931034483
+h5 file,5.315789473684211
+load giving,5.315789473684211
+tensorboard fails,5.314285714285715
+input image,5.308333333333334
+pretrained resnet,5.305555555555555
+127] check failed,5.3
+stateful modelsmultiprocessing,5.3
+type inconsistent,5.3
+nested models,5.285714285714286
+true label,5.282828282828282
+multi-labelshow,5.269230769230769
+sentence classification,5.266666666666667
+function doesn,5.255952380952381
+pycompilation options,5.25
+test sampleshow,5.25
+trainingconfig options,5.25
+union test,5.25
+cpu training,5.234962406015038
+customized accuracy,5.21875
+high memory,5.2142857142857135
+center loss,5.212121212121212
+input layer,5.210619469026549
+recurrent layer,5.210619469026549
+docker image,5.208333333333334
+embedding layercan,5.208333333333334
+support listsquestion,5.2
+tokenizer texts_to_matrix,5.2
+3d datarequests,5.2
+noise input,5.2
+gpuunicode support,5.2
+build function,5.195054945054945
+cmodel trained,5.1923076923076925
+huge model,5.190697674418605
+seq2seq model,5.190697674418605
+construct model,5.190697674418605
+custom generator,5.171568627450981
+vgg-16 predicts,5.166666666666667
+`conv2d` call,5.166666666666666
+predicting sample,5.166666666666666
+input data,5.165217391304347
+validation results,5.165217391304347
+convert weights,5.153846153846153
+batch dimension,5.1454545454545455
+support python 2,5.144444444444445
+multicore cpu,5.142857142857142
+2d datapretrained_word_embedding,5.142857142857142
+global metrics,5.133333333333333
+function works,5.130952380952381
+validation data,5.130434782608695
+recurrent network,5.121739130434783
+intermediate layers,5.119565217391305
+conv2d layer,5.110619469026549
+conv layer,5.110619469026549
+tensorboard callback,5.1
+input received,5.1
+improvement suggestion,5.1
+padded input,5.1
+batch normalization,5.1
+lstm layer,5.097798956206036
+low accuracy,5.09375
+resume training,5.092105263157895
+training mse,5.092105263157895
+custom sparse_categorical_crossentropy,5.088235294117647
+custom wrapperruntimeerror,5.088235294117647
+custom scoring,5.088235294117647
+custom regularizer,5.088235294117647
+custom layerswhy,5.088235294117647
+vgg16 weights,5.087179487179487
+multiple inputs,5.081730769230769
+sparse label,5.0606060606060606
+bad performance,5.057142857142857
+optimizer functioncan,5.055555555555555
+multiple output,5.052249637155297
+freeing memory,5.0476190476190474
+replay memory,5.0476190476190474
+clear memory,5.0476190476190474
+sparse autoencoder,5.033333333333333
+validation set,5.002717391304348
+seq2seq modelissue,5.0
+fuse networks,5.0
+rnn package,5.0
+verbose logging,5.0
+excessive logging,5.0
+complex oneerror,5.0
+core/cpucifar10_cnn_capsule,5.0
+resource exhausted,5.0
+modelcheckpoint callback,5.0
+negative index,5.0
+timemse incorrect,5.0
+score obtained,5.0
+kerasprogbar creates,5.0
+reduce lr,5.0
+constant results,5.0
+seperate networks,5.0
+fitoptimizer wrapper,5.0
+compute_output_shape issuehow,5.0
+rnn crashes,5.0
+0 # learning phase,5.0
+chaincrf wrapper,5.0
+f1 score,5.0
+fit_generatorget warnings,5.0
+scikit_learn wrappers,5.0
+sdamemory consumption,5.0
+throws error,4.991176470588235
+bidirectional lstm,4.987179487179487
+pretrained inceptionv3,4.984126984126984
+hidden states,4.982142857142858
+weight updates,4.9743589743589745
+single prediction,4.968421052631578
+normal metrics,4.966666666666667
+get_layer function,4.964285714285714
+concatenate/merge,4.961538461538462
+merge lstm,4.948717948717949
+maxout activation,4.947368421052632
+functional model,4.940697674418605
+module named,4.933333333333334
+numpy arrays,4.933333333333334
+batch sizes,4.933333333333334
+input arrays,4.933333333333334
+sequence model,4.929828109201214
+multilabel problem,4.928571428571429
+fit_generatorpredict_generator problem,4.928571428571429
+set weights,4.924679487179487
+cntk backend,4.911764705882353
+trainable variable,4.909090909090909
+variable sizesconcatenate,4.909090909090909
+step_per_epoch variable,4.909090909090909
+behavior inconsistent,4.9
+dropout layer,4.896333754740834
+cnn + lstm,4.896270396270396
+multiple states,4.894230769230769
+output layer,4.893638336951077
+pysparkinput features,4.888888888888889
+extracting features,4.888888888888889
+class iterator,4.888888888888889
+recurrent models,4.885714285714286
+input images,4.885714285714286
+tensorflow gpu,4.884852216748769
+embedding make,4.875
+low >= highmodel,4.875
+embedding handles,4.875
+tensorflow fails,4.875
+25word embedding,4.875
+embedding classunable,4.875
+promising architecture,4.857142857142858
+huge difference,4.857142857142858
+convolutional layeri,4.857142857142858
+validation images,4.850931677018633
+dense layer,4.845913586673607
+custom callbacks,4.838235294117647
+weightsfeature request,4.833333333333334
+directly writing,4.833333333333334
+padding isn,4.833333333333334
+lstmfeature request,4.833333333333334
+index generator,4.833333333333334
+l2 parameters,4.833333333333333
+epsilon std,4.833333333333333
+queue size,4.8235294117647065
+wrong prediction,4.822966507177034
+sized inputs,4.8125
+shared network,4.807453416149068
+training loss,4.804226475279107
+arguments missing,4.803571428571429
+state resetting,4.8
+cross-validate,4.8
+timesaving state,4.8
+unhashable type,4.8
+incorrect order,4.8
+image generator,4.791666666666667
+cntk doesn,4.791666666666666
+model input,4.790697674418604
+validation accuracy,4.783967391304348
+callback output,4.783018867924529
+network graph,4.771739130434783
+multiple outputshow,4.769230769230769
+multiple graphs,4.769230769230769
+multiple catogories,4.769230769230769
+multiple outputs,4.769230769230769
+multiple evaluating,4.769230769230769
+multiple outputsmodel,4.769230769230769
+vgg16 works,4.766666666666667
+metric logs,4.75
+converting resnet,4.75
+cudnn v7,4.75
+axes don,4.75
+dtype float32,4.75
+dtype=float32>],4.75
+vae tutorial,4.75
+cifar resnet,4.75
+encoder-decoder,4.75
+conv2d tutorial,4.75
+dtype=float32,4.75
+online hard,4.75
+pretrained model,4.74625322997416
+embedding layers,4.744565217391305
+sequence labeling,4.739130434782609
+sequence lengthis,4.739130434782609
+predicting data,4.731884057971014
+calling build,4.730769230769231
+hidden layers,4.726708074534161
+accuratetensorflow-gpu,4.724137931034482
+tokenizer work,4.720000000000001
+use_multiprocessingfit_generator fails,4.714285714285714
+inception fails,4.714285714285714
+aws fails,4.714285714285714
+kerasload_model fails,4.714285714285714
+loss dictionary`,4.712121212121212
+reconstruction loss,4.712121212121212
+keraslet  loss,4.712121212121212
+loss obtained,4.712121212121212
+loss functions,4.712121212121212
+= 1custom loss,4.712121212121212
+printing loss,4.712121212121212
+timedistributeddecrease loss,4.712121212121212
+transforming image,4.708333333333334
+run time,4.705882352941177
+adversarial-autoencoder,4.7
+variational autoencoder,4.7
+timedistributed+conv2d,4.7
+checking target,4.696969696969697
+batch training,4.692105263157895
+fatal error,4.6911764705882355
+[install] error,4.6911764705882355
+calling `model,4.690697674418605
+change  weights,4.687179487179487
+lstm model,4.677877161598092
+effectwierd behaviour,4.666666666666666
+building deconvnetremotemonitor,4.666666666666666
+outer concatenation,4.666666666666666
+eye inside,4.666666666666666
+encode labels,4.666666666666666
+1 process simultaneouslyhow,4.666666666666666
+small gpus,4.666666666666666
+predict function,4.664285714285715
+tensorflow distribution,4.660714285714286
+lambda python,4.658730158730159
+training data,4.657322654462242
+lstm predicting,4.653846153846153
+keras 2 apihow,4.65
+importing keras,4.65
+validation generator,4.648550724637682
+cudnn gru,4.638888888888889
+lstm keras,4.637179487179488
+loading models,4.635714285714286
+set `model,4.628197674418605
+layer lstm_13,4.610619469026549
+fc layer,4.610619469026549
+layer bidirectional_1,4.610619469026549
+layer ressourcesclear_session,4.610619469026549
+activityregularization layer,4.610619469026549
+embedded layer,4.610619469026549
+encode layer,4.610619469026549
+upsampling3d layer,4.610619469026549
+pepper layer,4.610619469026549
+layer permute_1,4.610619469026549
+fit_generatorembedding layer,4.610619469026549
+maskedprelu layer,4.610619469026549
+layer lstm_1,4.610619469026549
+performance regression,4.607142857142858
+pyrandom results,4.6
+add attention,4.6
+multitable input,4.6
+input listaddition,4.6
+input shapes,4.6
+gradients returning [,4.6
+lstmconditional input,4.6
+input layeris,4.6
+tensorboard callbackwhat,4.6
+input prior,4.6
+mnist tutorialbackprop,4.6
+input sizesdeconvolution,4.6
+batch normalizationinstallation,4.6
+model losses,4.590697674418605
+low number,4.589285714285714
+custom regularizers,4.588235294117647
+lambda layers,4.583850931677019
+python values,4.58080808080808
+training lstm,4.579284750337382
+tensorflow backend,4.572478991596638
+flags flags,4.571428571428571
+difference loss,4.569264069264069
+augmented data,4.565217391304348
+validation setbug,4.565217391304348
+hdf5matrix data,4.565217391304348
+data field,4.565217391304348
+data parallelism,4.565217391304348
+data sources,4.565217391304348
+step function,4.564285714285715
+mask_zero=true,4.555555555555555
+adam optimizer,4.555555555555555
+pretrained networkerror,4.555555555555555
+pickle_safe=true,4.555555555555555
+theano backend,4.554621848739496
+model saved,4.554334038054968
+saved model,4.554334038054968
+keras/losses,4.55
+dimension mismatch,4.545454545454545
+dimension passed,4.545454545454545
+keyword argument,4.542857142857143
+loading model,4.540697674418604
+existing layers,4.536231884057971
+layer shape,4.533696392103471
+training set,4.529605263157895
+error message =,4.524509803921569
+input shape,4.523076923076923
+network converges,4.521739130434783
+antoher network,4.521739130434783
+load model,4.506487148102815
+<exception str,4.5
+cntk backendcreate,4.5
+flywhile installing,4.5
+previous time_step,4.5
+callback functions,4.5
+beta-vae,4.5
+rangemodel saving,4.5
+while_loopresource leak,4.5
+numerical instabilityadd,4.5
+clearer doc,4.5
+conv3d autoencoderout,4.5
+pykeras prints,4.5
+inconsistent categorical_crossentropyattributeerror,4.5
+bidirectional layerfit_generator,4.5
+undefined symbol,4.5
+custom_objectshow concatenate,4.5
+bidirectional lstms,4.5
+conv2dtransposeupdate moving_mean,4.5
+applying lstm,4.487179487179487
+trainable weights,4.487179487179487
+loss_weightsstacked lstm,4.487179487179487
+lstm versioninvalidargumenterror,4.487179487179487
+weights initialized,4.487179487179487
+lstm equation,4.487179487179487
+fit function,4.484285714285715
+keras takes,4.483333333333333
+batchnormalization layer,4.467762326169406
+arguments training,4.467105263157895
+local version,4.466666666666667
+final state,4.466666666666667
+9accurate metrics,4.466666666666667
+metrics val_weighted_categorical_accuracy,4.466666666666667
+wrong gradienthow,4.454545454545455
+pass output,4.449685534591195
+constant tensor,4.441666666666666
+return numpy,4.433333333333334
+define optimizer,4.430555555555555
+finetuning inceptionv3,4.428571428571429
+kerasdocumentation missing,4.428571428571429
+theano models,4.428571428571429
+invalid shape,4.423076923076923
+backend functions,4.411764705882353
+mxnet-backend,4.411764705882353
+imagedatageneratortensorflow backend,4.411764705882353
+tensorflow op,4.410714285714286
+cnn modelsloading,4.409090909090909
+modelweird behavior,4.4
+batch_size=batch_size,4.4
+nb_epoch=nb_epoch,4.4
+loaded model,4.390697674418605
+]add option,4.385714285714286
+high accuracy,4.385416666666666
+lstm/gru,4.3760683760683765
+updating arguments,4.375
+generator method,4.369047619047619
+object detection,4.363636363636363
+batch train,4.361904761904762
+save weights,4.358147229114971
+cpumodel loading,4.35
+expected ndim=3,4.343434343434343
+expected ndim=5,4.343434343434343
+keras model,4.340697674418605
+dottimeseriesgenerator fix &,4.333333333333334
+ctc losslearningratescheduler,4.333333333333334
+train_on_batchconstant val_loss,4.333333333333334
+max_norm constraint,4.333333333333334
+recent call,4.333333333333333
+additional parameters,4.333333333333333
+merged layerhow,4.333333333333333
+operator multiply,4.333333333333333
+correctly pass,4.333333333333333
+output tensor,4.324685534591195
+pd file,4.315789473684211
+plt       4 # load,4.315789473684211
+open file,4.315789473684211
+truncated file,4.315789473684211
+5 dim inputs,4.3125
+training accuracy,4.310855263157895
+tensorflow keras,4.310714285714285
+keras-tensorflow,4.310714285714285
+progress]valueerror,4.3076923076923075
+keras/keras,4.3
+from_config doesn,4.291666666666666
+serialisation doesn,4.291666666666666
+4 vgg16dockerfile doesn,4.291666666666666
+xtimedistributed doesn,4.291666666666666
+clipnorm option,4.285714285714286
+verbose option,4.285714285714286
+matchrecurrent dropout,4.285714285714286
+shared modelserror,4.285714285714286
+[bug] imagedatagenerator,4.285714285714286
+flags = tf,4.285714285714286
+weird output,4.283018867924529
+output layerunable,4.283018867924529
+produce output,4.283018867924529
+output streams,4.283018867924529
+network structure,4.271739130434783
+multiple instances,4.269230769230769
+wrong order,4.254545454545455
+keras documentation,4.25
+integer valueproblem,4.25
+timewrong graph,4.25
+3]unexpected variance,4.25
+tf graph,4.25
+lstm structure,4.237179487179487
+load_modeltimedistributed dense,4.235294117647059
+fit loss,4.232121212121212
+evaluate problem,4.228571428571429
+label assigned,4.227272727272727
+good accuracy,4.21875
+poor accuracy,4.21875
+highest accuracy,4.21875
+multi_gpu fails,4.214285714285714
+nan loss,4.212121212121212
+placeholder tensor,4.208333333333333
+output shape,4.206095791001451
+change active_class_ids,4.2
+timedistributed layerbatch_dot,4.2
+implementing autoencoder,4.2
+tensorboard step,4.2
+titan xp,4.2
+timedistributed layeraccuracy,4.2
+examplesflow_from_directory error,4.1911764705882355
+error occurs,4.1911764705882355
+propagate error,4.1911764705882355
+showing error,4.1911764705882355
+error happened,4.1911764705882355
+multi_gpu_modelloading model,4.190697674418605
+xception model,4.190697674418605
+iostreamsave model,4.190697674418605
+reloading model,4.190697674418605
+classificationusing model,4.190697674418605
+activationin model,4.190697674418605
+anther model,4.190697674418605
+predefined model,4.190697674418605
+graphical model,4.190697674418605
+load/save,4.186757215619695
+constraints work,4.1866666666666665
+tutorial code,4.178571428571429
+timestep output,4.171907756813417
+mnist dataset       5,4.171428571428572
+forward propagation,4.166666666666667
+correctly walk,4.166666666666666
+assignment[image_ocr,4.166666666666666
+half precision,4.166666666666666
+correctly deserialized,4.166666666666666
+call index_generator,4.166666666666666
+average precision,4.166666666666666
+predicting badlylimit,4.166666666666666
+tensorflow backendlstm,4.160714285714286
+tensorflow backendhow,4.160714285714286
+tensorflow backendcompatibility,4.160714285714286
+tensorflow servingtypeerror,4.160714285714286
+tensorflow backends,4.160714285714286
+tensorflow backendbatch_size,4.160714285714286
+tensorflow backendntm,4.160714285714286
+shared layers,4.15527950310559
+dropout layers,4.15527950310559
+lstm nn,4.153846153846154
+stack lstm,4.153846153846154
+keras examplehow,4.15
+keras description,4.15
+suing keras,4.15
+keras cpuhow,4.15
+keras tensorwhen,4.15
+tokenizerrunning keras,4.15
+keras ctc_loss,4.15
+applying keras,4.15
+windows keras 2,4.15
+schedule keras,4.15
+predictionslstm keras,4.15
+keras modelintroduction,4.15
+keras optimize,4.15
+lstmapproach keras,4.15
+0why keras,4.15
+paramswhy keras,4.15
+keras 2 requests,4.15
+keras approach,4.15
+validation dataset,4.136645962732919
+rescale values,4.136363636363637
+sequential modelhow,4.128571428571429
+dimensionality issue,4.125
+expected dense,4.124183006535947
+sequential model,4.1192691029900335
+acc bug,4.119047619047619
+conv2d_transpose layer,4.110619469026549
+negative dimensions,4.107142857142858
+dense layers,4.1048593350383635
+conv2d filter,4.1
+add conv4d,4.1
+add svm,4.1
+create link,4.1
+create group,4.1
+create histograms,4.1
+python keras,4.094444444444444
+wanted] training,4.092105263157895
+continue training,4.092105263157895
+multi_gpu_modellstm training,4.092105263157895
+modelskip training,4.092105263157895
+training script,4.092105263157895
+import activity_l2,4.090909090909091
+tensorflow code,4.089285714285714
+callbacks=[save_model,4.083333333333334
+model expected,4.079586563307494
+imdb dataset,4.071428571428571
+end<data,4.065217391304348
+save model,4.061665416354089
+optimizer params,4.055555555555555
+multiprocessing = true,4.055555555555555
+evaluate requires,4.05
+_deferred tensor,4.041666666666666
+detect watermark,4.0
+safety reasons,4.0
+topin contributing,4.0
+manual calculation,4.0
+valuesfeature idea,4.0
+flask serverlinux,4.0
+consecutive cnn_preprocess_numpy_input,4.0
+convlstm2d reads,4.0
+`mode` argument,4.0
+kerasbatch_size scheduler,4.0
+successful update,4.0
+trainingexamples/mnist_cnn,4.0
+l1l2 regularizer,4.0
+gradientslosses property,4.0
+draw details,4.0
+topic modelingkeras_learning_phase,4.0
+collect_trainable_weightswrong initialization,4.0
+separableconv2dlstm consistently,4.0
+maxpool layersk,4.0
+adapt conv_lstm,4.0
+iteration v_t,4.0
+individual neurons,4.0
+separating recurrent_kernel,4.0
+inception-v3,4.0
+positive valuesmany,4.0
+episodic patterns,4.0
+eeg signalsevaluation,4.0
+on_validation callbacksuseless,4.0
+rendering bughttps,4.0
+partial nanmodelcheckpoint,4.0
+raspberry pi,4.0
+run cifar10_cnn_tfaugment2d,4.0
+mislabeled items,4.0
+responding slowattributeerror,4.0
+fuse outputs,4.0
+hte l1,4.0
+resizingcertain columns,4.0
+windows terminal,4.0
+attentive convolutionto_categorical,4.0
+memmap filestesting,4.0
+suspect bn,4.0
+hit tfdbg,4.0
+data_formatversion equivalencerefinement,4.0
+iterator interfaceerror,4.0
+xception modelloss,4.0
+cloning amodel,4.0
+individuals lstms,4.0
+generating junk,4.0
+extended trainingvis_utils,4.0
+show built-,4.0
+customvariationallayer warning,4.0
+serialized modelserror,4.0
+nasnet modelsupcast,4.0
+casting rule,4.0
+raw tf,4.0
+unnecessary warning,4.0
+fit_generatormodelcheckpoint terminates,4.0
+8tensorboard visualisation,4.0
+sblock->base_addr = 0,4.0
+recognize `unroll`,4.0
+taking lot,4.0
+pickle _cffi_backend,4.0
+expecting policy,4.0
+incomplete minibatchtypeerror,4.0
+pickle _thread,4.0
+runtime warning,4.0
+caffe iter_size,4.0
+nlp datasetsmulti_gpu_model,4.0
+`on_epoch_end`inputspec,4.0
+fit_generatorimplementing facenet,4.0
+trainable = falsehow,4.0
+permute pattern [0,4.0
+kernel_regularizer optionwhat,4.0
+toy examplevalueerror,4.0
+applicationsno dilation_rate,4.0
+identical systems,4.0
+_uses_learning_phase outputswhere,4.0
+small input_shapeerror,4.0
+win10 machine,4.0
+aws/win10,4.0
+arduino hardware,4.0
+pyspark[requesting,4.0
+alternate fashiontanh,4.0
+displaying properlykeras,4.0
+divide break,4.0
+embeddings,4.0
+early stopping,4.0
+enqueue_many=falseadding,4.0
+properly infer,4.0
+ram consumptionwhat,4.0
+outputsencoder shapeconcatenate,4.0
+run control,4.0
+aka reshape_with_batch,4.0
+on_epoch_end signature,4.0
+internal gates,4.0
+group deconvolution3d,4.0
+layerstrange reshaping,4.0
+phase tracking,4.0
+save_to_dir=aug_path,4.0
+spliting datas,4.0
+separately3d wheights,4.0
+sensemetrics calculation,4.0
+nonsensical warning,4.0
+channelsretrained mobilenet,4.0
+samplewise centering,4.0
+zhang & wallace 2015,4.0
+bidirectional_1/keras_learning_phase,4.0
+contributionspring 2017 roadmap,4.0
+docstring improvementsvalueerror,4.0
+maskkeras bindings,4.0
+reloading modelwriting,4.0
+validations datance,4.0
+passing custom_objects,4.0
+greedy layerwise,4.0
+efficient batchnormattributeerror,4.0
+infinityimage captioning,4.0
+kerassequence labeling,4.0
+cnnloss turns,4.0
+reproduceable codehow,4.0
+computed weights,3.9871794871794872
+changing weights,3.9871794871794872
+predict method,3.9857142857142858
+probability prediction,3.968421052631579
+tensorflow version 1,3.9607142857142854
+shuffle=true,3.9555555555555553
+keras version 1,3.95
+final output,3.949685534591195
+py file,3.9454191033138404
+python pretrained_word_embeddings,3.9444444444444446
+python scriptwhy,3.9444444444444446
+filter sizes,3.9333333333333336
+sequential modelconv1d,3.928571428571429
+sequential modelcan,3.928571428571429
+sequential components,3.928571428571429
+execute code,3.928571428571429
+corresonding code,3.928571428571429
+proper shape,3.9230769230769234
+shape incompatibility,3.9230769230769234
+implement models,3.9220779220779223
+pass callbacks,3.9166666666666665
+module ------  load,3.9157894736842107
+number  error,3.90546218487395
+constant vector,3.9
+expected dense_20,3.888888888888889
+timestep invarianceis,3.888888888888889
+expected activation_2,3.888888888888889
+incompatible shapes,3.888888888888889
+expected dense_10,3.888888888888889
+expected dense_16,3.888888888888889
+expected model_2,3.888888888888889
+timestep dim,3.888888888888889
+expected activation_4,3.888888888888889
+expected convolution2d_input_1,3.888888888888889
+filter images,3.8857142857142857
+py line 100,3.8796296296296298
+applying multi_gpu_model,3.875
+define outputs,3.875
+save inceptionresnetv2,3.870967741935484
+layers initialized,3.8695652173913047
+axishow layers,3.8695652173913047
+cnnshared layers,3.8695652173913047
+bn layers,3.8695652173913047
+model predicts,3.8573643410852716
+adding batchnormalization,3.857142857142857
+imagesvgg difference,3.857142857142857
+inference mode,3.857142857142857
+tf mode,3.857142857142857
+feed input,3.85
+add class_weight,3.85
+trainable parameters,3.833333333333333
+predict states,3.825
+list input_dim,3.8181818181818183
+list dynamically,3.8181818181818183
+keras binary_crossentropy,3.8166666666666664
+feed data,3.8152173913043477
+cnn applications,3.809090909090909
+examples/pretrained_word_embeddings,3.8
+workingdetermining order,3.8
+latest version,3.8
+calling evaluate,3.8
+/examples/deep_dream,3.8
+examples/mnist_tfrecord,3.8
+examples/babi_memnn,3.8
+forward states,3.791666666666667
+plot_model doesn,3.7916666666666665
+on_batch_end method,3.7857142857142856
+train itimporterror,3.761904761904762
+verify structure,3.75
+run callbacks,3.75
+expected 3 dimensions,3.746031746031746
+fit_generator functionseq2seq,3.741935483870968
+fit modelhow,3.72
+globally defined,3.7142857142857144
+channel number,3.7142857142857144
+finite number,3.7142857142857144
+fit model,3.7106976744186047
+multiply tensor,3.708333333333333
+predict give,3.7
+predict onlyerror,3.7
+predict yielding,3.7
+freeze timedistributed,3.7
+training step,3.692105263157895
+unicode error,3.6911764705882355
+exists error,3.6911764705882355
+release model,3.6906976744186046
+work correctly,3.6866666666666665
+fit_generatorbrightness range,3.666666666666667
+nn simultaneously,3.666666666666667
+stack autoencoderhow,3.666666666666667
+5importing imagedatagenerator,3.666666666666667
+binary_crossentropy losshow,3.666666666666667
+pass `strides`,3.6666666666666665
+to_categorical correctly,3.6666666666666665
+style,3.6666666666666665
+epochs,3.6666666666666665
+units = 1,3.6666666666666665
+switch,3.6666666666666665
+return list,3.6515151515151514
+implement tf,3.6363636363636367
+implement evaluation,3.6363636363636367
+implement deepvo-,3.6363636363636367
+py failslogo,3.6296296296296298
+py warns,3.6296296296296298
+py successfully,3.6296296296296298
+py examplehi,3.6296296296296298
+classes trainingsuggestion,3.625
+classes errormodel,3.625
+removing layers,3.6195652173913047
+pooling,3.6
+`tqdm` module,3.6
+called functions,3.6
+samples [,3.6
+random,3.6
+reconstruction probability,3.6
+samples,3.6
+timedistributedgeneralize flow_from_directory,3.6
+big dataset,3.571428571428571
+dataset apierrors,3.571428571428571
+babi dataset,3.571428571428571
+save submodels,3.5376344086021505
+work properly,3.52
+work preprocessing_function,3.52
+fit generatorkeras,3.52
+non-,3.5
+run tests,3.5
+program enters,3.5
+noise_shape param,3.5
+prelu layeralready,3.5
+sizetrainable `initial_state`,3.5
+detect submodel,3.5
+turn variational_autoencoder,3.5
+clever ideas,3.5
+initial_state specifiedlayers,3.5
+serialization apierror,3.5
+sklearn log_lossctcloss,3.5
+nanskeras imagegenerator,3.5
+virtualenvlstm overfitting,3.5
+presentouts referenced,3.5
+computation,3.5
+trainable parametershow,3.5
+cpukeras iteration,3.5
+dev,3.5
+kerastraining capability,3.5
+jointly minimize,3.5
+nan lossstopiteration,3.5
+parametricsoftplus removed,3.5
+image_ocr examplewhat,3.5
+compile setting,3.5
+learnable scales,3.5
+pr freeze,3.5
+error valueerror,3.498868778280543
+parameter,3.4444444444444446
+classes list,3.4431818181818183
+gradients return,3.4333333333333336
+add validation_split,3.4333333333333336
+applications visualizationsupport,3.4
+preprocessing fit,3.395
+expected dense_2,3.388888888888889
+split layers,3.3695652173913047
+`load_model`change,3.366666666666667
+open object,3.3636363636363633
+resnet50,3.3333333333333335
+default,3.3333333333333335
+classifier,3.3333333333333335
+implemented,3.3333333333333335
+gan,3.3333333333333335
+submodels merged,3.3333333333333335
+small batches,3.333333333333333
+keras load_model,3.3166666666666664
+found,3.2857142857142856
+code lstm_seq2seq,3.261904761904762
+randomstatedownload directory,3.25
+json,3.2
+support,3.2
+trained,3.1923076923076925
+performance effect,3.1904761904761907
+implementation,3.1818181818181817
+progbarlogger updates,3.166666666666667
+imagedatagenerator fed,3.166666666666667
+xor pb,3.166666666666667
+cpu,3.142857142857143
+implement gather_nd,3.1363636363636367
+array element,3.1333333333333333
+longer exists,3.1
+custom,3.088235294117647
+feature],3.066666666666667
+memory,3.0476190476190474
+longer working,3.0285714285714285
+share,3.0
+mlp compared,3.0
+text,3.0
+md suggest,3.0
+layershow,3.0
+handle,3.0
+sample,3.0
+rnn,3.0
+float,3.0
+mse,3.0
+keraslstm reset_states,3.0
+transfer,3.0
+timeseries,3.0
+extract/slice,3.0
+scipy>=0,3.0
+config,3.0
+returns,3.0
+codes,3.0
+learning,3.0
+function,2.9642857142857144
+activation,2.9473684210526314
+problem,2.9285714285714284
+class,2.888888888888889
+low,2.875
+embedding,2.875
+architecture,2.857142857142857
+assign probability,2.85
+gradients calculated,2.85
+tensors,2.8333333333333335
+request,2.8333333333333335
+categorical_crossentropy increase,2.833333333333333
+size,2.823529411764706
+longer supported,2.8
+failed,2.8
+conv1d,2.8
+type,2.8
+errors,2.8
+dtype,2.75
+metric,2.75
+regression,2.75
+sequence,2.739130434782609
+++sequence,2.739130434782609
+label,2.727272727272727
+gpu,2.7241379310344827
+<lambda>,2.7142857142857144
+lambda,2.7142857142857144
+fails,2.7142857142857144
+loss,2.712121212121212
+image,2.7083333333333335
+time,2.7058823529411766
+autoencoder,2.7
+convert,2.6666666666666665
+-operator,2.6666666666666665
+assignment,2.6666666666666665
+testing,2.6666666666666665
+preprocess,2.6666666666666665
+building,2.6666666666666665
+labels,2.6666666666666665
+generators,2.6666666666666665
+values,2.6363636363636362
+bug,2.619047619047619
+layer,2.6106194690265485
+batch,2.6
+= mnist,2.6
+input,2.6
+input 0,2.6
+suggestion,2.6
+results,2.6
+vgg16,2.6
+noise,2.6
+recurrent,2.6
+tensorboard,2.6
+data,2.5652173913043477
+validation,2.5652173913043477
+true,2.5555555555555554
+optimizer,2.5555555555555554
+dimension,2.5454545454545454
+dimension 2,2.5454545454545454
+network,2.5217391304347827
+callback,2.5
+importing,2.5
+modelcheckpoint,2.5
+saving,2.5
+reset,2.5
+batch_index,2.5
+write,2.5
+larger,2.5
+match,2.5
+vae,2.5
+dot,2.5
+conv2d,2.5
+attention,2.5
+resize,2.5
+histogram,2.5
+result,2.5
+_make_train_function,2.5
+docs,2.5
+zip,2.5
+files,2.5
+concatenate,2.5
+scale,2.5
+solve,2.5
+normalization,2.5
+weights,2.4871794871794872
+lstm,2.4871794871794872
+lstm[],2.4871794871794872
+metrics=[,2.466666666666667
+metrics,2.466666666666667
+merge,2.4615384615384617
+ndim=4,2.4545454545454546
+wrong,2.4545454545454546
+ndim=3,2.4545454545454546
+importerror                               traceback,2.45
+set,2.4375
+slower,2.4285714285714284
+inceptionv3,2.4285714285714284
+missing + 1,2.4285714285714284
+missing,2.4285714285714284
+backend,2.411764705882353
+cnn,2.409090909090909
+behavior,2.4
+losses,2.4
+arguments,2.375
+3 arguments,2.375
+prediction,2.3684210526315788
+saved,2.3636363636363638
+loading,2.35
+imagenet_utils,2.3333333333333335
+reproducible,2.3333333333333335
+padding,2.3333333333333335
+fix,2.3333333333333335
+subtracting 5,2.3333333333333335
+val_loss,2.3333333333333335
+names,2.3333333333333335
+ctc,2.3333333333333335
+indexerror,2.3333333333333335
+subtracting,2.3333333333333335
+decay,2.3333333333333335
+mask,2.3333333333333335
+takes,2.3333333333333335
+padding=,2.3333333333333335
+writing,2.3333333333333335
+provided,2.3333333333333335
+load,2.3157894736842106
+file,2.3157894736842106
+inputs,2.3125
+inputs],2.3125
+doesn,2.2916666666666665
+dropout,2.2857142857142856
+models,2.2857142857142856
+images,2.2857142857142856
+shared,2.2857142857142856
+flags = 0,2.2857142857142856
+method,2.2857142857142856
+option,2.2857142857142856
+output,2.2830188679245285
+imagenet,2.25
+negative,2.25
+augmentation,2.25
+modify,2.25
+line 877,2.25
+op,2.25
+graph,2.25
+question,2.25
+integer,2.25
+dense,2.235294117647059
+build,2.230769230769231
+accuracy,2.21875
+95% accuracy,2.21875
+loaded,2.2
+batch_size,2.2
+timedistributed,2.2
+change,2.2
+masking,2.2
+titan,2.2
+modelhow,2.2
+error,2.1911764705882355
+model,2.1906976744186046
+`model,2.1906976744186046
+8 model,2.1906976744186046
+works,2.1666666666666665
+placeholder,2.1666666666666665
+pass,2.1666666666666665
+high,2.1666666666666665
+precision,2.1666666666666665
+predicting,2.1666666666666665
+tensorflow,2.1607142857142856
+tensorflow 1,2.1607142857142856
+keras 2,2.15
+keras,2.15
+//keras,2.15
+keras 1,2.15
+3 keras,2.15
+1]keras,2.15
+theano,2.142857142857143
+argument,2.142857142857143
+summary,2.125
+issue,2.125
+states,2.125
+create,2.1
+add,2.1
+documentation,2.1
+add �,2.1
+training,2.0921052631578947
+import,2.090909090909091
+generator,2.0833333333333335
+tensor,2.0416666666666665
+tensor [,2.0416666666666665
+<tensor>,2.0416666666666665
+autoencoders,2.0
+typo,2.0
+passed,2.0
+tf,2.0
+decreasing,2.0
+trainable,2.0
+column,2.0
+passing,2.0
+include,2.0
+verbose=2,2.0
+utils,2.0
+output_shape,2.0
+produce,2.0
+estimator,2.0
+flatten,2.0
+sequences,2.0
+run,2.0
+convlstm2d,2.0
+update,2.0
+outputs,2.0
+https,2.0
+setting,2.0
+adding,2.0
+trainable`,2.0
+session,2.0
+safe,2.0
+valid,2.0
+fasttext,2.0
+[<tf,2.0
+visualize,2.0
+shapes,2.0
+workers,2.0
+make,2.0
+stopiteration,2.0
+inference,2.0
+middle,2.0
+resizing,2.0
+description,2.0
+drop,2.0
+access,2.0
+tf 1,2.0
+verbose=1,2.0
+pretrained_word_embeddings,2.0
+interface,2.0
+outputhow,2.0
+perplexity,2.0
+python 3,1.9444444444444444
+python 2,1.9444444444444444
+python,1.9444444444444444
+code,1.9285714285714286
+sequential,1.9285714285714286
+shape,1.9230769230769231
+shape=,1.9230769230769231
+shape [-1,1.9230769230769231
+shape[0],1.9230769230769231
+incompatible,1.8888888888888888
+expected,1.8888888888888888
+timestep,1.8888888888888888
+gru,1.8888888888888888
+multi_gpu_model,1.875
+preprocessing,1.875
+define,1.875
+save,1.8709677419354838
+layers,1.8695652173913044
+533 layers,1.8695652173913044
+527 layers,1.8695652173913044
+2 layers,1.8695652173913044
+3 layers,1.8695652173913044
+1 layers,1.8695652173913044
+batchnormalization,1.8571428571428572
+difference,1.8571428571428572
+`batchnormalization`,1.8571428571428572
+`mode=1`,1.8571428571428572
+`mode=2`,1.8571428571428572
+performance,1.8571428571428572
+2 dimensions,1.8571428571428572
+mode=,1.8571428571428572
+3 dimensions,1.8571428571428572
+parameters,1.8333333333333333
+return,1.8333333333333333
+list,1.8181818181818181
+element,1.8
+version,1.8
+examples,1.8
+order,1.8
+train,1.7619047619047619
+reshape,1.75
+x_train,1.75
+removing,1.75
+callbacks,1.75
+class_weight,1.75
+structure,1.75
+fit_generator,1.7419354838709677
+number,1.7142857142857142
+defined,1.7142857142857142
+predict,1.7
+imagedatagenerator,1.6666666666666667
+increasing,1.6666666666666667
+range,1.6666666666666667
+activations,1.6666666666666667
+multiply,1.6666666666666667
+regularization,1.6666666666666667
+binary_crossentropy,1.6666666666666667
+convolution,1.6666666666666667
+find,1.6666666666666667
+slow,1.6666666666666667
+recent,1.6666666666666667
+merged,1.6666666666666667
+submodels,1.6666666666666667
+hdf5,1.6666666666666667
+nn,1.6666666666666667
+predictions,1.6666666666666667
+tuple,1.6666666666666667
+forward,1.6666666666666667
+broken,1.6666666666666667
+stack,1.6666666666666667
+fitting,1.6666666666666667
+final,1.6666666666666667
+predicts,1.6666666666666667
+updates,1.6666666666666667
+xor,1.6666666666666667
+implement,1.6363636363636365
+py,1.6296296296296295
+py`,1.6296296296296295
+classes,1.625
+2 classes,1.625
+longer,1.6
+gradients,1.6
+<module>,1.6
+probability,1.6
+step,1.6
+module,1.6
+filter,1.6
+called,1.6
+flow_from_directory,1.6
+dataset,1.5714285714285714
+fit,1.52
+work,1.52
+unicode,1.5
+param,1.5
+reduce,1.5
+`strides`,1.5
+tests,1.5
+split,1.5
+to_categorical,1.5
+overfitting,1.5
+suggest,1.5
+image_ocr,1.5
+conv2d_transpose,1.5
+params,1.5
+invalidargumenterror,1.5
+changing,1.5
+imagegenerator,1.5
+enters,1.5
+end,1.5
+plot_model,1.5
+regularizers,1.5
+referenced,1.5
+compile,1.5
+parametershow,1.5
+fed,1.5
+freeze,1.5
+scales,1.5
+sklearn,1.5
+increase,1.5
+nan,1.5
+submodel,1.5
+compile`,1.5
+pb,1.5
+variance,1.5
+reset_states,1.5
+removed,1.5
+serialization,1.5
+rescale,1.5
+ideas,1.5
+keraslstm,1.5
+gather_nd,1.5
+release,1.5
+cpukeras,1.5
+kerastraining,1.5
+progbarlogger,1.5
+instances,1.5
+md,1.5
+vector,1.5
+slice,1.5
+compared,1.5
+minimize,1.5
+computed,1.5
+initial_state,1.5
+on_batch_end,1.5
+index_generator,1.5
+multi_gpu,1.5
+extract,1.5
+built,1.5
+prelu,1.5
+implementing,1.5
+mlp,1.5
+assigned,1.5
+dense_2,1.5
+variational_autoencoder,1.5
+exists,1.5
+acc,1.5
+multiprocessing,1.5
+typeerror,1.4444444444444444
+=> typeerror,1.4444444444444444
+working,1.4285714285714286
+epoch,1.4166666666666667
+applications,1.4
+shuffle,1.4
+object,1.3636363636363635
+std,1.3333333333333333
+lstm_seq2seq,1.3333333333333333
+validation_split,1.3333333333333333
+unable,1.3333333333333333
+60 batches,1.3333333333333333
+array,1.3333333333333333
+effect,1.3333333333333333
+categorical_crossentropy,1.3333333333333333
+1 array,1.3333333333333333
+batches,1.3333333333333333
+validation_split=0,1.3333333333333333
+valueerror,1.3076923076923077
+evaluate,1.3
+attribute,1.2857142857142858
+feed,1.25
+running,1.25
+�decoder�,1.25
+decoder,1.25
+don,1.25
+calculated,1.25
+assign,1.25
+directory,1.25
+traceback,1.25
+importerror,1.2
+supported,1.2
+load_model,1.1666666666666667
+0there,1.0
+callable,1.0
+thanksproblem,1.0
+v2,1.0
+validation_data,1.0
+set_params,1.0
+documentedk,1.0
+argumentkeras,1.0
+ring,1.0
+bias,1.0
+batchesfit_generator,1.0
+truectc,1.0
+theanohow,1.0
+differentiable /,1.0
+errorshow,1.0
+labelsunable,1.0
+locate,1.0
+row,1.0
+changed,1.0
+compute,1.0
+kerasorder,1.0
+stored,1.0
+interfere,1.0
+`kernel_size`,1.0
+disallowed,1.0
+contrib,1.0
+checkpoints,1.0
+serialize,1.0
+_io,1.0
+textiowrapper,1.0
+objectbug,1.0
+nasnetlarge,1.0
+containertensor,1.0
+set_valuerequirements,1.0
+completeaccuracy,1.0
+allocated,1.0
+saverubyhow,1.0
+load_img,1.0
+iterate,1.0
+y_train,1.0
+num_classes,1.0
+attributeerror,1.0
+int,1.0
+kernel_size,1.0
+convlstm2dhow,1.0
+placevalueerror,1.0
+pyplot,1.0
+downloaded,1.0
+needed,1.0
+x_test,1.0
+y_test,1.0
+load_data,1.0
+inheriting,1.0
+keras_data_format,1.0
+setlist_pictures,1.0
+seeking,1.0
+kerasquestions,1.0
+minimum,1.0
+providedaccuracies,1.0
+published,1.0
+kerascallback,1.0
+histogram_freq,1.0
+greater,1.0
+0flow_from_dictionary,1.0
+stderrmultiprocessing,1.0
+stderr,1.0
+time_distributed,1.0
+nonetype,1.0
+node,1.0
+output_masks,1.0
+converted,1.0
+tensorflow_backend,1.0
+pool3d,1.0
+`copy,1.0
+keraspreprocess_input,1.0
+non_trainable,1.0
+combined,1.0
+profile,1.0
+linearndinterpolator,1.0
+tfproblem,1.0
+subprocesscan,1.0
+cut,1.0
+inefficient,1.0
+0keras,1.0
+submodelsbug,1.0
+library,1.0
+modifications,1.0
+librarykeras,1.0
+predictaccuracy,1.0
+predictionsimagedatagenerator,1.0
+url,1.0
+flowneed,1.0
+keraserror,1.0
+downloading,1.0
+history,1.0
+contribution,1.0
+convgru2d,1.0
+seenmodel,1.0
+random_transform,1.0
+shoule,1.0
+repeatedly,1.0
+allocating,1.0
+imdb_lstm,1.0
+pip,1.0
+launcherunable,1.0
+directoryiterator,1.0
+validation_datakeras,1.0
+nice,1.0
+revisited,1.0
+add_loss,1.0
+0how,1.0
+debug,1.0
+costs,1.0
+mul,1.0
+etchow,1.0
+epoch_logs,1.0
+rnns,1.0
+cpus,1.0
+intra_op_parallelism_threads,1.0
+7unboundlocalerror,1.0
+blank/,1.0
+differ,1.0
+attempting,1.0
+scopeimporterror,1.0
+> 50 words,1.0
+work_element_count > 0,1.0
+backendskeras,1.0
+gradientshow,1.0
+batch_dot,1.0
+float64,1.0
+initializers,1.0
+strangehow,1.0
+accepts,1.0
+globalmaxpooling,1.0
+plan,1.0
+raised,1.0
+apply,1.0
+dont,1.0
+changei,1.0
+issuewhen,1.0
+fit_generatorhow,1.0
+networksget_config,1.0
+get_config,1.0
+engine,1.0
+cntkclass_weight,1.0
+matmul,1.0
+overwritten,1.0
+save_weights,1.0
+cifar10_resnet200v2,1.0
+pyintuition,1.0
+fiting,1.0
+stackedrnncells,1.0
+wrongzoom_range,1.0
+yhow,1.0
+concatenatedocumentation,1.0
+kld,1.0
+lossattributeerror,1.0
+completechaning,1.0
+backpropagationwhy,1.0
+save_modelclass_weight,1.0
+send,1.0
+payload,1.0
+np_utilshow,1.0
+predict_generator,1.0
+probabilities,1.0
+mattererror,1.0
+conv3dis,1.0
+craft,1.0
+croppingvisualisation,1.0
+metricshow,1.0
+understand,1.0
+outcome,1.0
+fit_generatorsteps_done,1.0
+tflearn,1.0
+kerasis,1.0
+depends,1.0
+outputsimagedatagenerator,1.0
+accuracy_scorek,1.0
+clear_session,1.0
+channels_first,1.0
+generalized,1.0
+recursionerrorhow,1.0
+ndarray,1.0
+t-1,1.0
+5how,1.0
+infinity,1.0
+cleanup,1.0
+execution,1.0
+preprocessing_functions,1.0
+usedquestions,1.0
+resnet50valueerror,1.0
+peeks,1.0
+concatop,1.0
+precisionhow,1.0
+put,1.0
+kerashow,1.0
+python3,1.0
+6float16,1.0
+chairconfidence,1.0
+supermodel,1.0
+preserved,1.0
+val_acc,1.0
+train_acc,1.0
+float16,1.0
+imagedatageneratormnist_siamese,1.0
+duplicated,1.0
+serializeddoesn,1.0
+5keras 2,1.0
+calledbug,1.0
+dropouthow,1.0
+determine,1.0
+encoders,1.0
+discrepancy,1.0
+tokenizerhow,1.0
+memoryerror,1.0
+testingvariational_autoencoder_deconv,1.0
+one_hot,1.0
+encodings,1.0
+wordsmodel,1.0
+clone_model,1.0
+functioncrash,1.0
+evaluate_generator,1.0
+retrain,1.0
+cnnserror,1.0
+2 arrayserror,1.0
+traininghow,1.0
+blocks,1.0
+workingresnet50,1.0
+cifar10_resnet,1.0
+elsewheremulti_gpu_model,1.0
+store,1.0
+variables,1.0
+7 cntkmodel,1.0
+overflow,1.0
+truncatedtypo,1.0
+printed,1.0
+print_summary,1.0
+accuracyruntimeerror,1.0
+steps_per_epochmodel,1.0
+reordered,1.0
+inceptionresnetv2feedforward,1.0
+backprop,1.0
+added,1.0
+depthaccess,1.0
+evaluations,1.0
+count_mode,1.0
+imagesstrange,1.0
+reinitialize,1.0
+lstmlstm,1.0
+ops,1.0
+leaky_relu,1.0
+conv3dbackpropinput,1.0
+out_backprop,1.0
+givenis 0,1.0
+0 acceptable,1.0
+paperhow,1.0
+rangewhy,1.0
+darta_format,1.0
+loop,1.0
+left,1.0
+retraining,1.0
+fileplotting,1.0
+cutoff,1.0
+expectedindexerror,1.0
+workingtypeerror,1.0
+callabletokenizer,1.0
+evaluated,1.0
+caffe2,1.0
+community,1.0
+checkpointer,1.0
+common,1.0
+stderrissue,1.0
+0binary_crossentropy,1.0
+nhwc,1.0
+cuda-,1.0
+devices,1.0
+android,1.0
+ssim,1.0
+matlab,1.0
+references,1.0
+project,1.0
+reply,1.0
+timestephow,1.0
+class_weightsam,1.0
+sqrt,1.0
+has_inf_or_nan,1.0
+test_batchnorm,1.0
+confusing,1.0
+misnomerhow,1.0
+kerasunable,1.0
+mnist_denoising_autoencodermodel,1.0
+09can,1.0
+map_fnhow,1.0
+overwrite,1.0
+preprocessingproblem,1.0
+sh,1.0
+model_1_input,1.0
+place,1.0
+validationk,1.0
+ctc_decode,1.0
+lstmsupport,1.0
+__init__,1.0
+backpropagation,1.0
+timeattributeerror,1.0
+log_values,1.0
+definedwhich,1.0
+decreasinghow,1.0
+timestamp,1.0
+np,1.0
+checked,1.0
+writability,1.0
+silent,1.0
+generated,1.0
+convnet2d,1.0
+activationconv2dlstm,1.0
+finetune,1.0
+modelfit_generator,1.0
+usable,1.0
+epochsimpossible,1.0
+//github,1.0
+_message,1.0
+[relu3,1.0
+relu2,1.0
+relu1],1.0
+concat,1.0
+concat_axis=1,1.0
+workvariational_autoencoder_deconv,1.0
+compiling,1.0
+started,1.0
+30 seconds,1.0
+opencv2,1.0
+influence,1.0
+week,1.0
+trend,1.0
+synchronized,1.0
+cnnadjusting,1.0
+mixture,1.0
+gaussians,1.0
+addedreducelronplateau,1.0
+lr_epsilon =,1.0
+nonegetting,1.0
+saveloading,1.0
+popping,1.0
+mentioned,1.0
+rnnmay,1.0
+1 channelconv1d,1.0
+dilation,1.0
+causal,1.0
+reducing,1.0
+sequenceextracting,1.0
+predict_proba,1.0
+predict_classes,1.0
+preprocess_inputhow,1.0
+modelattributeerror,1.0
+imdb_fasttext,1.0
+bow,1.0
+pymany,1.0
+y_true,1.0
+y_predweights,1.0
+__name__,1.0
+theano_backend,1.0
+truncated_normalhow,1.0
+fitconv1dtranspose,1.0
+twhy,1.0
+expose,1.0
+trainingdimension 0,1.0
+equal,1.0
+assign_1,1.0
+intersection,1.0
+dockerunable,1.0
+apnamodel,1.0
+errno = 2,1.0
+o_flags = 0,1.0
+recall,1.0
+disk,1.0
+max_queue_size,1.0
+differenttypeerror,1.0
+ufunc,1.0
+true_divide,1.0
+typecode,1.0
+coerced,1.0
+same_kind,1.0
+lstmis,1.0
+condition,1.0
+converge,1.0
+lambdahow,1.0
+load_from_json,1.0
+layerproblems,1.0
+kerastypeerror,1.0
+accurate,1.0
+uninitialized,1.0
+variable_,1.0
+move,1.0
+deal,1.0
+lstmthe,1.0
+zerosupport,1.0
+top,1.0
+set_weights,1.0
+timehow,1.0
+proof,1.0
+concept,1.0
+downloadableoserror,1.0
+eof = 98304,1.0
+stored_eoa = 102853048,1.0
+leakyrelu,1.0
+reasoninput,1.0
+interrupted,1.0
+pixels,1.0
+links,1.0
+methods,1.0
+multi_gpu_modelnames,1.0
+multi_gpu_modelattach,1.0
+scalars,1.0
+worse,1.0
+occupy,1.0
+multi_gpu_modeluse,1.0
+differences,1.0
+lines,1.0
+stdout,1.0
+redirected,1.0
+ctc_batch_costerror,1.0
+kerasgenerator,1.0
+usingrandom_zoom,1.0
+zoom,1.0
+6issue,1.0
+generator_ouput=,1.0
+output_generator,1.0
+choose,1.0
+enable,1.0
+wondering,1.0
+minimizing,1.0
+sum,1.0
+sense,1.0
+invoked,1.0
+8how,1.0
+imagedatageneratorerror,1.0
+scene,1.0
+compute_loss,1.0
+mnist_acgan,1.0
+interfering,1.0
+bucketingsparse_categorical_crossentropy,1.0
+kerasrequest,1.0
+y_pred,1.0
+90mb,1.0
+kerasindex_generator,1.0
+flow_index,1.0
+reading,1.0
+batchnormerror,1.0
+capsnet,1.0
+steps_per_epoch,1.0
+nn1,1.0
+pow,1.0
+eye_like,1.0
+7159 * tanh,1.0
+residuals,1.0
+save_modelsuggestion,1.0
+flow_from_dir,1.0
+modelpansharpening,1.0
+clip_by_value,1.0
+get_size,1.0
+count_params,1.0
+int_shape,1.0
+get_shape,1.0
+unstable,1.0
+sess,1.0
+accept,1.0
+tensorflowresourceexhausterror,1.0
+layerzero,1.0
+computers,1.0
+totally,1.0
+reversed,1.0
+in_train_phase,1.0
+in_test_phase,1.0
+ability,1.0
+prepare,1.0
+randomwindowinputfn,1.0
+multi_gpudefine,1.0
+loss1,1.0
+loss2,1.0
+layer1,1.0
+interpolation,1.0
+top 5,1.0
+top3,1.0
+num_wordsmodel,1.0
+shapestrying,1.0
+kl,1.0
+kerasresnet50,1.0
+gaussiannoiseerror,1.0
+neuralnetwork,1.0
+purpose,1.0
+keraserrors,1.0
+callis,1.0
+concatenates,1.0
+inbound_nodes,1.0
+laptop,1.0
+representation,1.0
+scaling,1.0
+stucknot,1.0
+modelsequence,1.0
+autoencodervalueerror,1.0
+alpha,1.0
+learned,1.0
+vgg19,1.0
+kernel_initializer=,1.0
+he_normal,1.0
+gcs,1.0
+dasksequential,1.0
+chance,1.0
+depth,1.0
+val_sample_weights,1.0
+memoryset_weights,1.0
+texts_to_sequence_generatorimagedatagenerator,1.0
+advantage,1.0
+networkmodel,1.0
+kerasreshapebatch,1.0
+understood,1.0
+requirement,1.0
+parse,1.0
+pyfpe_jbufhow,1.0
+lstmcustom,1.0
+plotted,1.0
+pyocr,1.0
+iteratorbug,1.0
+stdouti,1.0
+keraswhat,1.0
+faster,1.0
+w10,1.0
+linux,1.0
+manjaro,1.0
+gnome3,1.0
+multiplication,1.0
+timedistributedhow,1.0
+learnt,1.0
+eval,1.0
+lstm_1_input,1.0
+input_1,1.0
+proposal,1.0
+triggers,1.0
+validation_data=,1.0
+x_valid,1.0
+y_valid,1.0
+early_stopping,1.0
+csv_logger,1.0
+qwk],1.0
+datagen,1.0
+flow,1.0
+save_prefix=,1.0
+aug,1.0
+part,1.0
+get_gradients,1.0
+dense_1_w,1.0
+dense_1_b,1.0
+easily,1.0
+string,1.0
+generator_output =,1.0
+ceil,1.0
+machineshow,1.0
+vaeshow,1.0
+ocr,1.0
+applied,1.0
+modification,1.0
+sm_446217920,1.0
+greatly,1.0
+loss_weights,1.0
+keyerror,1.0
+exist,1.0
+predictionlstm,1.0
+modelinput 0,1.0
+predict_prob,1.0
+pytorch,1.0
+floatx,1.0
+explain,1.0
+declare,1.0
+doesattributeerror,1.0
+gpuarraysharedvariable,1.0
+advanced_activations,1.0
+leakyreluimporterror,1.0
+bitwise,1.0
+stores,1.0
+listload_model,1.0
+feedback,1.0
+workinghow,1.0
+lets,1.0
+runtimeerror,1.0
+kerasregressor,1.0
+to_json,1.0
+momentum,1.0
+conv2dtranspose,1.0
+moving_variance,1.0
+topology,1.0
+is_placeholder,1.0
+pascal,1.0
+maxwell,1.0
+nanbatchnormalization,1.0
+windowshow,1.0
+ohem,1.0
+mining,1.0
+keraskeras,1.0
+achieve,1.0
+inputsincompatibility,1.0
+lstmwhy,1.0
+computing,1.0
+logits,1.0
+arg 5,1.0
+closure,1.0
+expectedget,1.0
+contributions,1.0
+evaluationimagedatagenerator,1.0
+fmeasure,1.0
+paste,1.0
+failspredict_generator,1.0
+aware,1.0
+resultinput,1.0
+easy,1.0
+kerasclassifier,1.0
+compatible,1.0
+workingerror,1.0
+kind,1.0
+app,1.0
+define_float,1.0
+learning_rate,1.0
+contributionimporterror,1.0
+pydot,1.0
+find_graphviz,1.0
+blstm,1.0
+_make_predict_function,1.0
+pop,1.0
+backendscalculate,1.0
+penntreebank,1.0
+trainingissue,1.0
+operror,1.0
+alexnet,1.0
+googlenet,1.0
+vggnet,1.0
+readme,1.0
+repo,1.0
+textwhen,1.0
+2,0
+`,0
+3,0
+22,0
+-,0
+#1693,0
+6,0
+512,0
+192,0
+5,0
+0,0
+0%,0
+100%,0
+>,0
+1,0
+4,0
+],0
+255,0
+/,0
+2048,0
+2560,0
+69,0
+8,0
+4800000,0
+� / �,0
+=,0
+30,0
+125,0
+[,0
+[16,0
+128],0
+[32,0
+<,0
+256,0
+300,0
+128,0
+21,0
+00,0
+3230,0
+7,0
+32,0
+[4,0
+64],0
+2],0
+99/100,0
+9,0
+&,0
+60,0
+64,0
+320,0
+16,0
+[8,0
+16],0
+[],0
+2/3 *,0
+6%,0
+25,0
+~94%,0
+600,0
+105,0
+48,0
+14,0
+150,0
+[64,0
+59,0
+93],0
+[1,0
+93,0
+3],0
+12],0
+99,0
+218,0
+100,0
+2]],0
+#,0
+[1],0
+# ==> [,0
+[[-0,0
+42342907],0
+[-0,0
+84685814]],0
+3-,0
+800,0
+200,0
+75,0
+11,0
+96,0
+01,0
