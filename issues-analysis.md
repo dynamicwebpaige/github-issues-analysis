@@ -21,9 +21,14 @@
 ### I need clarification on how to build and configure an LSTM model.
 
 * [This is fantastic.](https://stackoverflow.com/questions/38714959/understanding-keras-lstms)
+* [TensorFlow LSTM to Keras. Perhaps would be a good idea to show a model created with TensorFlow and an identical model using TensorFlow as the backend, just implemented with Keras?](https://stackoverflow.com/questions/50805980/transform-tensorflow-lstm-to-keras)
 
 ### Troubleshooting for issues with loss and accuracy.
 
 ### Troubleshooting errors for input and output dimensions.
 
-* [Issue with input dimensions.](https://stackoverflow.com/questions/50809155/keras-convolution1d-input-shape)
+* [Issue with input dimensions: `batch_input_shape`, `Conv1D`.](https://stackoverflow.com/questions/50809155/keras-convolution1d-input-shape)
+
+### Troubleshooting installation and virtual environment issues.
+
+* [Anaconda with Theano backend.](https://stackoverflow.com/questions/50806075/error-when-installing-keras-in-anaconda-p-keras-backend-0temp-txt)
