@@ -16,7 +16,7 @@
 
 ### I am experiencing an issue when working with multiple CPUs / GPUs.
 
-###I am experiencing issues with non-TensorFlow backend (CNTK, Theano).
+### I am experiencing issues with non-TensorFlow backend (CNTK, Theano).
 
 ### I need clarification on how to build and configure an LSTM model.
 
