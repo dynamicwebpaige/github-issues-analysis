@@ -1,6 +1,6 @@
 # Keras: GitHub and StackOverflow Issues Analysis
 
-This repo contains code required to perform keyword extraction on Keras GitHub issues.
+-------------------------------
 
 ### Issues Analysis
 This is a bucketization of issues into high-level categories. Ideally, these broad themes would be used to improve documentation and error messages for the API itself.
